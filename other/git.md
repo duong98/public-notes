@@ -14,9 +14,20 @@
 
 
 ## Other commands
+
+### Branches
 - `git branch -d <branch>` after your pull is accepted
 - `git branch -vv` check which branch you're pushing to
-- `git remove origin add <empty repo link>` add a new remote
+
+### Remotes
+- `git remote add origin <empty repo link>` add a new remote
+- add additional remotes with `git remote add <remote name>`
+
+### Commits
+- `git show head` show most recent commit changes
+- `git log` show log of changes
+- `git checkout HEAD <filename>` un-stages file changes
+- `git rm -rf --cached` remove all cached in staging area
 
 ##### fix errors and delete git markers
 - `git add .` and `git commit` enter notes regarding conflict
