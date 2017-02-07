@@ -1,4 +1,4 @@
-Check a str for whether or not it's a palindrome.
+Check a string for whether or not it's a palindrome without spaces and special characters.
 
 ```javascript
 let checkPalindrome = (str) => {

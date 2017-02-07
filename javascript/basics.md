@@ -33,7 +33,7 @@ function printFoo() { // function declaration - creates a global function, not h
   console.log('foo'); // defined afterwards. Works because of javascript's 2-pass
 }
 
-// BUT wouldn't work with (see hoisting below)
+// BUT wouldn't work with (see hoisting example in next section)
 var printFoo = function() { // function expression - printFoo is not a function yet (hoisted to undefined)
   console.log('foo');
 }
