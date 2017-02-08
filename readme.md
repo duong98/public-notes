@@ -6,6 +6,7 @@
     - [intermediate](./javascript/toy-problems/intermediate.md)
   - [Basics](./javascript/basics.md)
   - [Types and Scope](./javascript/types-scope.md)
+* [Atom packages](./other/atom.md)
 * [Git](./other/git.md)
 * [HTML5](./other/html5.md)
 * [jquery](./other/jquery.md)
