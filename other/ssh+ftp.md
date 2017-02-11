@@ -3,6 +3,16 @@
   - Create a passphrase when prompted
 - View your public key `cat ~/.ssh/id_rsa.pub`
 
+
+# FTP (SFTP)
+`sftp -p [username]@[host]`
+
+add `l` before commands to navigate your own FS in the terminal. (i.e. `lpwd`)
+
+add `-oPort=[port]` if sftp protocol is open on another port.
+
+# About Public Key Encryption
+
 _*NEVER*_ share your `private key` with anyone. Pass out your `public key` like glowsticks at a rave or chlamydia at a public university. [Check out my public SSH key here](https://api.github.com/users/brettinternet/keys).
 
 SSH utilizes public-key encryption. Check out the mac app [GPG Tools](https://gpgtools.org/) which is an implementation of [GnuPG](https://www.gnupg.org/) for this same concept applied to encrypting emails.

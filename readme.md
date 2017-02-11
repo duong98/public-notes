@@ -12,7 +12,7 @@
 * [jquery](./other/jquery.md)
 * [JSON](./other/JSON.md)
 * [SQL](./other/sql.md)
-* [SSH](./other/ssh.md)
+* [SSH & FTP](./other/ssh+ftp.md)
 * [Compiler config examples](./compiling)
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
