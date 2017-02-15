@@ -114,3 +114,11 @@ catch (e) {
 }
 ```
 `e` returns ReferenceErrors everywhere except for the block
+
+##### Closures
+
+WHY? a neat way of handling 2 realities of Javascript
+1. scope is at the function level, not the block level
+2. much of what you practice in Javascript is asynchronous and event driven
+
+<!-- http://stackoverflow.com/questions/111102/how-do-javascript-closures-work -->
