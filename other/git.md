@@ -1,4 +1,4 @@
-** NOTE: the text inside the <brackets> indicate custom text that you must change
+_NOTE: the text inside the <brackets> indicate custom text that you must change_
 
 # Git version control process
 
