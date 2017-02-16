@@ -1,3 +1,5 @@
+_NOTE: the text inside the <brackets> indicate custom text that you must change_
+
 # Git version control process
 
 1. `git pull` from master, or from branch `git pull origin <branch>`
@@ -32,3 +34,20 @@
 ##### fix errors and delete git markers
 - `git add .` and `git commit` enter notes regarding conflict
 - `git push origin <branch> -u`
+
+---
+
+# For Beginners:
+## Clone repo
+`git clone <repo link>`
+`git add .` add files to staging
+`git commit -m '<commit message>'` commit files in staging
+`git push`
+
+## 'Upload' repo initially
+This is for when your files 
+`git init` initialize the repo
+`git remote add origin <github or bitbucket link>`
+`git add .` add to staging
+`git commit -m '<commit message>'` commit files in staging
+`git push --set-upstream origin master`
