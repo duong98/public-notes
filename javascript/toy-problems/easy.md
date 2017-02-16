@@ -256,3 +256,71 @@ let checkPalindrome = (str) => {
   return str == str.split('').reverse().join('');
 }
 ```
+
+---
+
+Write a function that calculates an exponent.
+
+Examples:
+exponent(2,3) should return 8
+exponent(5,4) should return 625
+
+An exponent is where you multiply a base number by itself multiple times.
+53  = 5 * 5 * 5 = 125
+26  = 2 * 2 * 2 * 2 * 2 * 2 = 64
+
+```js
+function exponent(a, b) {
+  var total = a;
+  for(var i = 1; i < b; i++) {
+    total *= a;
+  }
+  return total;
+}
+
+exponent(2, 3);
+```
+
+---
+
+Write a a function called isPrime that takes in a number and returns true if it is prime and false if it's not prime.
+
+```js
+function isPrime(num) {
+  if(num < 2) return false;
+  for (var i=2; i<num; i++) {
+    if (num % i === 0) {
+      return false;
+    }
+  }
+  return true;
+}
+
+isPrime(131);
+```
+
+Push all the prime numbers up to the given number to an array and return the array.
+
+```js
+function isPrime(num) {
+  if (num < 2) return false;
+  for(var i = 2; i < num; i++) {
+    if (num % i === 0) {
+      return false;
+    }
+  }
+  return true;
+}
+
+function listPrimes(max) {
+  var primeNumbers = [];
+  for(var i = 2; i <= max; i++) {
+    if (isPrime(i)) {
+      primeNumbers.push(i);
+    }
+  }
+  return primeNumbers;
+}
+
+listPrimes(37);
+```

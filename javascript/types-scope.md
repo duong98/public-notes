@@ -6,7 +6,7 @@ Two Pass Compilation in Javascript
 2. Execution occurs; Because all variables are known from Pass 1, they may be accessed before they're declared.
 
 ### #Hoisting
-Hoisted variables are initalized to undefined
+Hoisted variables are initialized to undefined
 example:
 ```javascript
 console.log(foo); // logs error, not defined
@@ -15,6 +15,14 @@ console.log(foo); // logs error, not defined
 ```javascript
 console.log(foo); // foo is hoisted
 let foo = 3000; // logs undefined
+```
+
+```js
+var text = "outer";
+function logIt() {
+  console.log(text); // logs undefined
+  var text = "inner";
+}
 ```
 
 ### Numbers
