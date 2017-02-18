@@ -5,7 +5,7 @@ My primary purpose here is to make a *concise* reference of JS methods.
 
 
 ### Array.prototype
-array.`map`: make changes to each element in an array
-
+`map`: make changes to each element in an array
+`reduce`:
 
 ### Object.prototype

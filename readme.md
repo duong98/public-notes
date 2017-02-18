@@ -16,3 +16,9 @@
 * [Compiler config examples](./compiling)
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
+
+
+## Resources
+### Javascript
+- [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
+- [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
