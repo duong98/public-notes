@@ -17,8 +17,6 @@
 
 - file-icons
 - atom-beautify
-
-## Best for beginners
 - atom-live-server
 
 ## Syntax support
