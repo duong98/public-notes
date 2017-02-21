@@ -2,7 +2,7 @@
 [Atom Packages](https://atom.io/packages)
 
 ## Essentials
-- minimap
+- [minimap](https://atom.io/packages/minimap)
 - [minimap-pigments](https://atom.io/packages/minimap-pigments)
 - [pigments](https://atom.io/packages/pigments)
 - [color-picker](https://atom.io/packages/color-picker)
