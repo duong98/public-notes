@@ -33,7 +33,7 @@
 - [atom-material-syntax-dark](https://github.com/atom-material/atom-material-syntax-dark)
 
 ## Bonus
-- [atom-spotify](atom-spotify)
+- [atom-spotify2](https://atom.io/packages/atom-spotify2)
 
 ### Shortcuts
 For some Atom shortcuts, [check this out](https://github.com/brettinternet/atom-keyboard-shortcuts).
