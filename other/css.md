@@ -29,7 +29,7 @@ No explicit width, only fit to contain children. - floated boxes w/o width behav
 
 To avoid cross-browser issues, always set a width on anything floated, absolutely positioned, or fixed positioned.
 
-
+`{box-sizing: content-box}` the default setting, the height and width are calculated to include only the content.
 **`{box-sizing: border-box}` allows border and padding to be computed in the total space occupied by a box model.**
 
 

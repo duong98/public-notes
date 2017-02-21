@@ -1,4 +1,5 @@
 # Atom packages
+[Atom Packages](https://atom.io/packages)
 
 ## Essentials
 - minimap
