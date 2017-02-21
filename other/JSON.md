@@ -1,5 +1,5 @@
 # JavaScript Object Notation:
-root `{}` and not root `[]`.
+root level data type must be an object `{}` and not an array `[]`.
 `:` and no `=`
 
 JSON allows:
