@@ -18,6 +18,7 @@
 
 - [file-icons](https://atom.io/packages/file-icons)
 - [atom-beautify](https://atom.io/packages/atom-beautify)
+- [Emmet](https://atom.io/packages/emmet)
 - [atom-live-server](https://atom.io/packages/atom-live-server)
 
 ## Syntax support
