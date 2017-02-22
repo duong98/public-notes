@@ -7,6 +7,7 @@
   - [Basics](./javascript/basics.md)
   - [Types and Scope](./javascript/types-scope.md)
 * [Atom packages](./other/atom.md)
+* [Chrome DevTools Summary](./other/ChromeDevTools.md)
 * [CSS Fundamentals](./other/css.md)
 * [Git](./other/git.md)
 * [HTML5](./other/html5.md)
