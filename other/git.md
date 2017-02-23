@@ -1,7 +1,3 @@
-# .gitignore
-[ignore patterns](https://www.atlassian.com/git/tutorials/gitignore)
-
----
 
 **NOTE: the text inside the <brackets> indicate custom text that you must change. [argument] represent optional arguments**
 
@@ -78,7 +74,43 @@ When you start a repo on your local machine first
 
 ---
 
+# .gitignore
+[ignore patterns](https://www.atlassian.com/git/tutorials/gitignore)
+
+edit your global git ignore for some common files you want git to ignore
+Create/edit the file `~/.gitignore` and add the following text:
+```
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.out
+
+# Application specific files
+venv
+node_modules
+.sass-cache
+```
+
+Have git always use this git ignore in addition to local gitignores with `git config --global core.excludesfile '~/.gitignore'`
+
+---
+
 ## Advanced
+`git config --global credential.helper osxkeychain` to enable git password caching, [described here](https://help.github.com/articles/set-up-git/)
+
 
 ### Initializing
 - `git init --bare <directory>` omits the working directory. Conventionally create bare git directories with `.git` in the name. Used more for storage rather than development. No edits/commits.
