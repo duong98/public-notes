@@ -13,6 +13,13 @@ Homebrew is a package manager for macOS
 
 `brew list --versions` list what you have installed (versions)
 
+### Homebrew services
+brew can run services from packages you install like telegraf, couchdb, or mysql
+
+`brew services list` list all brew services
+
+`brew service start <service name>` start or `stop`/`restart` a brew service
+
 # Homebrew Cask
 `brew cask search` list all casks or **+** `<app name>` searches for an app like google-chrome
 
@@ -25,7 +32,8 @@ Homebrew is a package manager for macOS
 `brew cask info <app name>`
 
 
-# Suggested brew packages
+# Suggested installs
+## Brew packages
 ```
 brew install git
 brew install yarn
@@ -42,8 +50,7 @@ brew install couchdb
 brew install rbenv
 ```
 
-# Suggested casks
-
+## Casks
 ### Quicklook plugins
 ```
 brew cask install qlcolorcode
