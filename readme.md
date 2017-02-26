@@ -32,6 +32,7 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 * [MySQL](./other/mysql.md)
 * [SQL](./other/sql.md)
 * [SSH & FTP](./other/ssh+ftp.md)
+* [Terminal](./other/terminal.md)
 * [Vim](./other/vim.md)
 * [Compiler config examples](./compiling)
   - [Gulp](./compiling/gulpfile.js)
@@ -42,6 +43,9 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
+
+### Other Code
+- [Practice toy problems for JS and other here.](https://github.com/zacanger/pineapple-curry/tree/solutions)
 
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)
