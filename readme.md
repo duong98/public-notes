@@ -8,6 +8,10 @@ This repo contains some of my public notes on a few tools that I use. My notes o
 
 In the age of the internet, no one should have to remember everything.
 
+> Everything not saved will be lost.
+
+> \- _Nintento "Quit Screen" message_
+
 For some of these services, I've mostly catered to macOS with Homebrew. For PC, checkout [Chocolately](https://chocolatey.org/) or apt-get on Linux. Eventually I'll add additional notes for PC/Linux.
 
 ---
@@ -45,13 +49,11 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
 
 ### Other Code
-- [Practice toy problems for JS and other here.](https://github.com/zacanger/pineapple-curry/tree/solutions)
+- [Practice toy problems for JS and other here.](https://github.com/zacanger/pineapple-curry)
 
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)
 - [The complete process of developing an app](https://12factor.net/)
-
-###
 
 ### UI
 - [Reddit: Beautiful Unix UI setups](https://www.reddit.com/r/unixporn/)
@@ -59,8 +61,6 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 - [Amethyst window manager](https://github.com/ianyh/Amethyst)
 - [KWM](https://github.com/koekeishiya/kwm)
 
----
 
-> Everything not saved will be lost.
 
-> \- _Nintento "Quit Screen" message_
+See also my [dot files](https://github.com/brettinternet/dotfiles).

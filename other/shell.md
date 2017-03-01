@@ -12,10 +12,22 @@
 [OSX](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/osx)
 
 
-# Configs
+# zsh
+
+### Resources
+- [Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf)
+- [zsh lovers](http://grml.org/zsh/zsh-lovers.html)
+
+
+```sh
+hostcolor=197
+zstyle ':vcs_info:git*' formats "%{$fg[blue]%}#%b%{$reset_color%}"
+PROMPT='%~${vcs_info_msg_0_} %F{$hostcolor}> %f'
+```
+
 
 ### .zshrc
-```
+```sh
 # ZSH
 # =====================
 

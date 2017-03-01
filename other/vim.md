@@ -13,3 +13,7 @@
 1. `git clone https://github.com/square/maximum-awesome`
 2. `cd maximum-awesome`
 3. `rake`
+
+
+# Vim Resources
+- [Learning Vim](https://github.com/mhinz/vim-galore)

@@ -51,6 +51,9 @@
 - `git add .` and `git commit` enter notes regarding conflict
 - `git push origin <branch> -u`
 
+### Submodules
+- `git submodule add <url> <directory>` adds a submodule to your repo
+
 ---
 
 # For Beginners:

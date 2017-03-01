@@ -217,9 +217,9 @@ countBy(2,5) should return [2,4,6,8,10]
 ```js
 function countBy(x, n) {
   var z = [];
-    for(var i = 1; i <= n; i++) {
-        z.push(x * i);
-    }
+  for(var i = 1; i <= n; i++) {
+      z.push(x * i);
+  }
   return z;
 }
 countBy(2,5);
@@ -228,14 +228,24 @@ countBy(2,5);
 ---
 
 Create a function mimicking Math.pow(x, y);
+
+Examples:
 ```js
-pow = (x, y) => {
-  let z = 1;
-  for (var i = 0; i < y; i++) {
-    z *= x;
+exponent(2,3) should return 8
+exponent(5,4) should return 625
+```
+
+```js
+function exponent(a, b) {
+  var total = a;
+  for(var i = 1; i < b; i++) {
+    total *= a;
   }
-  return z;
+  return total;
 }
+
+exponent(2, 3);
+
 
 //  OR //
 
@@ -255,30 +265,6 @@ let checkPalindrome = (str) => {
   str = str.replace(/[^a-zA-Z0-9]/, "");
   return str == str.split('').reverse().join('');
 }
-```
-
----
-
-Write a function that calculates an exponent.
-
-Examples:
-exponent(2,3) should return 8
-exponent(5,4) should return 625
-
-An exponent is where you multiply a base number by itself multiple times.
-53  = 5 * 5 * 5 = 125
-26  = 2 * 2 * 2 * 2 * 2 * 2 = 64
-
-```js
-function exponent(a, b) {
-  var total = a;
-  for(var i = 1; i < b; i++) {
-    total *= a;
-  }
-  return total;
-}
-
-exponent(2, 3);
 ```
 
 ---
