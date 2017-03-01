@@ -1,4 +1,4 @@
-The keyword this is used to access and reference *context* in a function. The this reference **always** refers to an object.
+The keyword this is used to access and reference *context* in a function. The `this` reference **always** refers to an object.
 
 
 ```js
