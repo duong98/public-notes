@@ -19,8 +19,10 @@ var updateKnowledge = function() {
   console.log(this === window);
 }
 updateKnowledge();
+```
 
-
+### Methods have implicit context.
+```js
 var student = {
   name: 'brett',
   updateKnowledge: function() {
@@ -30,6 +32,7 @@ var student = {
 student.updateKnowledge();
 
 // now that we're working in the context of the object "student", this will refer to the actual object that calls the function.
+// implicit
 
 
 var student = {
@@ -71,6 +74,8 @@ student1.updateKnowledge();
 
 Libraries like [jQuery](http://code.jquery.com/) and Angular have tons of these. The main reason why you'd want to use these is to get control over what `this` is set to in a function.
 
+### Bind/call/apply have explicit context.
+
 ```js
 var updateKnowledge = function() {
   console.log(this === window);
@@ -101,40 +106,30 @@ var student = {
   name: 'brett'
 }
 
-updateKnowledge.apply(student, ['some knowledge', 'cats']); // without array passed in, we get TypeError from JS
+updateKnowledge.apply(student, ['some knowledge', 'cats']); // without an array passed in here, we'd get a TypeError from JS
 ```
 
+Bind: same as call but stored in a variable and not invoked.
+```js
+var updateKnowledge = function(knowledge) {
+  console.log(this.name + ' has ' + knowledge);
+}
 
+var student = {
+  name: 'brett'
+}
+
+var bound = updateKnowledge.bind(student, 'some knowledge');
+console.log(bound)
+console.log(bound() === updateKnowledge.call(student, 'some knowledge')); // true
+```
 
 ---
 
-The context is set at the time of invocation.
+**The context is set at the time of invocation.**
 
 4 contexts for context:
-1. explicit
+1. explicit - call/bind/apply
 2. implicit
 3. default (window)
 4. new
-
-Setting up the context:
-
-Explicitly: call, bind, apply
-
-
-Bind a **function** to an **object**.
-```js
-function addNumbers() {
-  return this.num + 3;
-}
-
-// BIND TO OBJECT:
-
-var obj = {
-  num: 6
-}
-```
-Bind explicitly with call, bind, or apply.
-
-```js
-addNumbers.call(obj, )
-```

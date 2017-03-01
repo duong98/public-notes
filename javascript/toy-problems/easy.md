@@ -3,9 +3,9 @@ The wide mouth frog is particularly interested in the eating habits of other cre
 
 He just can't stop asking the creatures he encounters what they like to eat. But then he meet the alligator who just LOVES to eat wide-mouthed frogs!
 
-When he meets the alligator, it then makes a tiny mouth.
+When he meets the alligator, the frog then makes a tiny mouth.
 
-Your goal in this kata is to create complete the mouth_size method this method take one argument animal which corresponds to the animal encountered by frog. If this one is an alligator (case insensitive) return small otherwise return wide.
+Your goal in this problem is to create complete the mouth_size method this method take one argument animal which corresponds to the animal encountered by frog. If this one is an alligator (case insensitive) return small otherwise return wide.
 ```js
 function mouth_size(animal) {
   if (animal !== "alligator") {
@@ -211,8 +211,8 @@ Return the results as an array
 
 Examples:
 ```js
-countBy(1,10) should return [1,2,3,4,5,6,7,8,9,10]
-countBy(2,5) should return [2,4,6,8,10]
+countBy(1,10) should return [1,2,3,4,5,6,7,8,9,10];
+countBy(2,5) should return [2,4,6,8,10];
 ```
 ```js
 function countBy(x, n) {
