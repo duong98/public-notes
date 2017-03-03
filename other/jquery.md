@@ -4,7 +4,7 @@
 Document ready indicates that the HTML finished loading.
 ```javascript
 $(document).ready(function() {
-  $('p').hide()
+  // ...
 });
 ```
 

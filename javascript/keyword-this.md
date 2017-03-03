@@ -128,7 +128,7 @@ console.log(bound() === updateKnowledge.call(student, 'some knowledge')); // tru
 
 **The context is set at the time of invocation.**
 
-4 contexts for context:
+##### 4 contexts for context:
 1. explicit - call/bind/apply
 2. implicit
 3. default (window)

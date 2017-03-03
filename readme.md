@@ -24,6 +24,7 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
     - [intermediate](./javascript/toy-problems/intermediate.md)
   - [Basics](./javascript/basics.md)
   - [Types and Scope](./javascript/types-scope.md)
+  - [Keyword This](./javascript/keyword-this.md)
 * [Atom packages](./other/atom.md)
 * [Chrome DevTools Summary](./other/ChromeDevTools.md)
 * [CSS Fundamentals](./other/css.md)
@@ -57,10 +58,10 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 
 ### UI
 - [Reddit: Beautiful Unix UI setups](https://www.reddit.com/r/unixporn/)
+
 #### Windows managers - not suggested for laptops/smaller screens
-- [Amethyst window manager](https://github.com/ianyh/Amethyst)
 - [KWM](https://github.com/koekeishiya/kwm)
 
 
-
+## Apps, configs and .files that I use
 See also my [dot files](https://github.com/brettinternet/dotfiles).
