@@ -32,7 +32,7 @@ var student = {
 student.updateKnowledge();
 
 // now that we're working in the context of the object "student", this will refer to the actual object that calls the function.
-// implicit
+// Methods make up implicit 'this' binding
 
 
 var student = {

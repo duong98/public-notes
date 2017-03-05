@@ -3,8 +3,8 @@
 
 This repo contains some of my public notes on a few tools that I use. My notes offer...
 
-- an introduction to various services for some of the students that I mentor and...
-- a quick reference for rules, syntax and commands for myself.
+- an introduction to various services for my students and...
+- a quick reference for rules, syntax and commands.
 
 In the age of the internet, no one should have to remember everything.
 
@@ -12,7 +12,7 @@ In the age of the internet, no one should have to remember everything.
 
 > \- _Nintento "Quit Screen" message_
 
-For some of these services, I've mostly catered to macOS with Homebrew. For PC, checkout [Chocolately](https://chocolatey.org/) or apt-get on Linux. Eventually I'll add additional notes for PC/Linux.
+For some of these services, I've mostly catered to macOS with Homebrew. For PC, checkout [Chocolately](https://chocolatey.org/). Eventually I'll add additional notes for PC & Linux.
 
 ---
 
@@ -25,20 +25,26 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
   - [Basics](./javascript/basics.md)
   - [Types and Scope](./javascript/types-scope.md)
   - [Keyword This](./javascript/keyword-this.md)
-* [Atom packages](./other/atom.md)
+* [Command line](./cli)
+  - [Homebrew](./cli/homebrew.md)
+  - [Git](./cli/git.md)
+  - [NPM](./cli/npm.md)
+  - [Terminal](./cli/terminal.md)
+  - [tmux](./cli/tmux.md)
+  - [SSH & FTP](./cli/ssh+ftp.md)
+* [Database](./database)
+  - [Postgres Setup](./database/postgres-setup.md)
+  - [Postgres](./database/postgres.md)
+  - [MySQL](./other/mysql.md)
+* Editors
+  - [Atom packages](./other/atom.md)
+  - [Vim](./other/vim.md)
 * [Chrome DevTools Summary](./other/ChromeDevTools.md)
 * [CSS Fundamentals](./other/css.md)
-* [Git](./other/git.md)
 * [Heroku](./other/heroku.md)
-* [Homebrew](./other/homebrew.md)
 * [HTML5](./other/html5.md)
 * [jquery](./other/jquery.md)
 * [JSON](./other/JSON.md)
-* [MySQL](./other/mysql.md)
-* [SQL](./other/sql.md)
-* [SSH & FTP](./other/ssh+ftp.md)
-* [Terminal](./other/terminal.md)
-* [Vim](./other/vim.md)
 * [Compiler config examples](./compiling)
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
@@ -63,5 +69,5 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 - [KWM](https://github.com/koekeishiya/kwm)
 
 
-## Apps, configs and .files that I use
-See also my [dot files](https://github.com/brettinternet/dotfiles).
+## My dotfiles and '[rice](http://www.urbandictionary.com/define.php?term=rice)'
+brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
