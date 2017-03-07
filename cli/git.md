@@ -20,6 +20,7 @@
 
 - `git log` see project history
   - `--oneline`, `--stat`, `--author=""`, `--grep=""`, `--graph --decorate --oneline`
+- `git clone <project url> -b <branch name> --single-branch` clones a specific branch
 
 ### Branches
 - `git branch -d <branch>` after your pull is accepted
