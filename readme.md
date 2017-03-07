@@ -83,7 +83,3 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 
 ## My dotfiles and '[rice](http://www.urbandictionary.com/define.php?term=rice)'
 brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
-
-
-
-~~test~~
