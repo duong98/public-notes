@@ -25,6 +25,14 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
   - [Basics](./javascript/basics.md)
   - [Types and Scope](./javascript/types-scope.md)
   - [Keyword This](./javascript/keyword-this.md)
+  - [Patterns](./javascript/js-patterns.md)
+* [Angular](./angular)
+  - [Basics](./angular/basics.md)
+* [CSS](./CSS)
+  - [CSS Fundamentals](./css/css.md)
+  - [HTML5](./css/html5.md)
+  - [CSS Practice](./css/css-practice)
+  - [CSS Solutions](./css/css-practice-solutions)
 * [Command line](./cli)
   - [Homebrew](./cli/homebrew.md)
   - [Git](./cli/git.md)
@@ -40,9 +48,7 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
   - [Atom packages](./other/atom.md)
   - [Vim](./other/vim.md)
 * [Chrome DevTools Summary](./other/ChromeDevTools.md)
-* [CSS Fundamentals](./other/css.md)
 * [Heroku](./other/heroku.md)
-* [HTML5](./other/html5.md)
 * [jquery](./other/jquery.md)
 * [JSON](./other/JSON.md)
 * [Compiler config examples](./compiling)
@@ -55,18 +61,12 @@ For some of these services, I've mostly catered to macOS with Homebrew. For PC, 
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
 
-### Other Code
-- [Practice toy problems for JS and other here.](https://github.com/zacanger/pineapple-curry)
-
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)
 - [The complete process of developing an app](https://12factor.net/)
 
-### UI
-- [Reddit: Beautiful Unix UI setups](https://www.reddit.com/r/unixporn/)
-
-#### Windows managers - not suggested for laptops/smaller screens
-- [KWM](https://github.com/koekeishiya/kwm)
+### Credits
+- problems taken from other [mentors](https://github.com/zacanger/pineapple-curry), Codewars, and from experience.
 
 
 ## My dotfiles and '[rice](http://www.urbandictionary.com/define.php?term=rice)'
