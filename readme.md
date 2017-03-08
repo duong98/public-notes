@@ -12,7 +12,7 @@ In the age of the internet, no one should have to remember everything.
 
 > \- _Nintento "Quit Screen" message_
 
-For some of these services, I've mostly catered to macOS with Homebrew. For my desktop PC, I use [Chocolately](https://chocolatey.org/), and Linux has its own CLI tools. Eventually I'll add additional notes for PC & Linux.
+For some of these services, I've mostly catered to macOS with Homebrew. For my desktop PC, I use [Chocolately](https://chocolatey.org/) and [NSSM](http://nssm.cc/) for services, and Linux has its own CLI tools. Eventually I'll add additional notes for PC & Linux.
 
 If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot-pc-linux.md). While I do have my own PC server, I believe Unix systems are better for serving and for developing.
 
@@ -67,6 +67,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 * [Heroku](./other/heroku.md)
 * [jquery](./other/jquery.md)
 * [JSON](./other/JSON.md)
+* [Non-Sucky Service Manager](./other/nssm.md)
 * [Compiler config examples](./compiling)
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
