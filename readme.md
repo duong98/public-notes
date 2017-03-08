@@ -64,6 +64,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
   - [Atom packages](./other/atom.md)
   - [Vim](./other/vim.md)
 * [Chrome DevTools Summary](./other/ChromeDevTools.md)
+* [Docker](./other/docker.md)
 * [Heroku](./other/heroku.md)
 * [jquery](./other/jquery.md)
 * [JSON](./other/JSON.md)
@@ -87,7 +88,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 
 ### Credits
 - problems taken from other [mentors](https://github.com/zacanger/pineapple-curry), Codewars, and from experience.
-
+- [@brettinternet](https://gist.github.com/brettinternet/2b74e6b1043e15130ad3a443123ccdbc)
 
 ## My dotfiles and '[rice](http://www.urbandictionary.com/define.php?term=rice)'
 brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)

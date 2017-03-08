@@ -14,6 +14,5 @@
 2. `cd maximum-awesome`
 3. `rake`
 
-
 # Vim Resources
 - [Learning Vim](https://github.com/mhinz/vim-galore)

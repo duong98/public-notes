@@ -1,7 +1,5 @@
 # Terminal and shell setup
 
-## [CLI apps](https://github.com/brettinternet/awesome-command-line-apps)
-
 ## Useful Unix commands
 - `ls -a` list *all* files in current directory
 - `cd <directory>` change directory
@@ -18,6 +16,13 @@
 - `diskutil list` see all disks and partitions
 - `defaults write com.apple.finder AppleShowAllFiles YES` shows hidden files/`NO` to hide
 
+## Command-Line Apps
+- [Keybase](https://keybase.io/docs/command_line)
+- mopidy + mopidy-spotify + ncmpcpp = music on the cli
+- RTV for reddit
+- [more CLI apps](https://github.com/brettinternet/awesome-command-line-apps)
+
+
 ## iTerm2 Themes
 - [Gruvbox Vim](https://github.com/morhetz/gruvbox)
 - [Gruvbox assorted, including iTerm](https://github.com/morhetz/gruvbox-contrib)
@@ -29,3 +34,7 @@
 ### Resources
 - [Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf)
 - [zsh lovers](http://grml.org/zsh/zsh-lovers.html)
+
+### Configurations
+- [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Prezto](https://github.com/sorin-ionescu/prezto)
