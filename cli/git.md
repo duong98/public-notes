@@ -118,3 +118,8 @@ Have git always use this git ignore in addition to local gitignores with `git co
 
 ### Initializing
 - `git init --bare <directory>` omits the working directory. Conventionally create bare git directories with `.git` in the name. Used more for storage rather than development. No edits/commits.
+
+## Not Git
+...but relevant.
+
+Change the base url of a gist to `cdn.rawgit.com`
