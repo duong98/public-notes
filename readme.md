@@ -57,7 +57,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
   - [Postgres](./database/postgres.md)
   - [MySQL](./database/mysql.md)
   - [Mongo Practice](./database/mongo-practice)
-  - [Mongo Practice](./database/mongo-practice-solutions)
+  - [Mongo Solutions](./database/mongo-practice-solutions)
 * [PowerShell](./powershell)
 * [AppleScript](./applescript)
 * Editors
