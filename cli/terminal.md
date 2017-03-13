@@ -16,6 +16,9 @@
 - `diskutil list` see all disks and partitions
 - `defaults write com.apple.finder AppleShowAllFiles YES` shows hidden files/`NO` to hide
 
+## Useful commands for Ubuntu Server
+- `setterm -blank 0` turn off the terminal black screen saver
+
 ## Command-Line Apps
 - [Keybase](https://keybase.io/docs/command_line)
 - mopidy + mopidy-spotify + ncmpcpp = music on the cli
