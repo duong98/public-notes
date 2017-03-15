@@ -1,7 +1,7 @@
 
 **NOTE: the text inside the < brackets \> indicate custom text that you must change. [argument] represent optional arguments**
 
-# Git Commands
+## Git Commands for collaboration
 
 1. `git pull` from master, or from branch `git pull origin <branch>`
 2. `git checkout -b <branch>` i.e. login component
