@@ -1,5 +1,5 @@
 
-**NOTE: the text inside the <brackets> indicate custom text that you must change. [argument] represent optional arguments**
+**NOTE: the text inside the < brackets \> indicate custom text that you must change. [argument] represent optional arguments**
 
 # Git Commands
 
