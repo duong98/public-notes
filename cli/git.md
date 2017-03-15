@@ -110,6 +110,8 @@ node_modules
 
 Have git always use this git ignore in addition to local gitignores with `git config --global core.excludesfile '~/.gitignore'`
 
+See my global `.gitignore` from my dotfiles [here](https://github.com/brettinternet/dotfiles/blob/master/.gitignore).
+
 ---
 
 ## Advanced
