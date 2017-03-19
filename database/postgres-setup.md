@@ -18,14 +18,7 @@ To quit it, type `\q` then Enter.
 
 # Ubuntu
 
-```
-sudo apt-get install -y postgresql postgresql-contrib libpq-dev build-essential
-echo `whoami` > /tmp/caller
-sudo su - postgres
-psql --command "CREATE ROLE `cat /tmp/caller` LOGIN createdb;"
-exit
-rm -f /tmp/caller
-```
+Follow [this guide](https://help.ubuntu.com/stable/serverguide/postgresql.html) for postgresql database setup on ubuntu. There are some helpful answers [here](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge), too.
 
 ## Listening for connections
 By default, Postgresql only listens to localhost. For postgresql to accept other connections besides `127.0.0.1` you must modify the postgresql config file. Sudoedit `/etc/postgresql/9.1/main/postgresql.conf` and change `listen_addresses='localhost'` either add additional addresses postgres should accept or `listen_addresses='*'` to accept all connections. Finally, restart the server with `sudo /etc/init.d/postgresql restart`.
