@@ -55,7 +55,6 @@ var Student = function(name, knowledge) {
 var student1 = new Student('brett');
 // when we use 'new', this will be assigned to the brand new object created by new
 
-console.log('============');
 var Student = function(name, knowledge) {
   this.name = name; // comma? nope! it's a function...
 }
