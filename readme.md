@@ -52,12 +52,15 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 * [Compiler configs](./compiling)
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
+* [Career Resources](./other/career.md)
 
 
 ## 🎒 Resources
 ### Developer
 - [Full Stack Web Developer track](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
+- [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
 
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
