@@ -1,5 +1,5 @@
 
-### Brett's Public Notes
+### Brett's Public Notes 📝
 
 This repo contains some of my public notes on a few tools that I use. My notes offer...
 
@@ -22,29 +22,14 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 
 * [Javascript](./javascript)
   - [Toy Problems](./javascript/toy-problems)
-    - [Easy](./javascript/toy-problems/basic)
-    - [Intermediate](./javascript/toy-problems/intermediate)
-    - [Advanced](./javascript/toy-problems/advanced)
-    - [Solutions](./javascript/toy-problems/solutions)
-  - [Basics](./javascript/basics.md)
-  - [Types and Scope](./javascript/types-scope.md)
-  - [Keyword This](./javascript/keyword-this.md)
-  - [Patterns](./javascript/js-patterns.md)
 * [Angular](./angular)
-  - [Basics](./angular/basics.md)
 * [CSS](./CSS)
-  - [CSS Fundamentals](./css/css.md)
-  - [HTML5](./css/html5.md)
   - [CSS Practice](./css/css-practice)
-  - [CSS Solutions](./css/css-practice-solutions)
 * [React](./react)
   - [React Practice](./react/react-practice)
-  - [React Solutions](./react/react-practice-solutions)
 * [Node](./react)
   - [Node Practice](./node/node-practice)
-  - [Node Solutions](./node/node-practice-solutions)
   - [Express Practice](./node/express-practice)
-  - [Express Solutions](./node/express-practice-solutions)
 * [Command line](./cli)
   - [Homebrew](./cli/homebrew.md)
   - [Git](./cli/git.md)
@@ -52,29 +37,28 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
   - [Terminal](./cli/terminal.md)
   - [tmux](./cli/tmux.md)
   - [SSH & FTP](./cli/ssh+ftp.md)
+* [DevOps](./devops) - pfSense, Heroku, Docker, backup, building webapps, dual boot pc/linux
 * [Database](./database)
   - [Postgres Setup](./database/postgres-setup.md)
   - [Postgres](./database/postgres.md)
   - [MySQL](./database/mysql.md)
   - [Mongo Practice](./database/mongo-practice)
-  - [Mongo Solutions](./database/mongo-practice-solutions)
-* [PowerShell](./powershell)
+* [PowerShell Scripts](./powershell)
 * [AppleScript](./applescript)
 * Editors
   - [Atom packages](./other/atom.md)
   - [Vim](./other/vim.md)
 * [Chrome DevTools Summary](./other/ChromeDevTools.md)
-* [Docker](./other/docker.md)
-* [Heroku](./other/heroku.md)
-* [jquery](./other/jquery.md)
-* [JSON](./other/JSON.md)
-* [Non-Sucky Service Manager](./other/nssm.md)
-* [Compiler config examples](./compiling)
+* [Compiler configs](./compiling)
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
 
 
-## Resources
+## 🎒 Resources
+### Developer
+- [Full Stack Web Developer track](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
@@ -85,10 +69,11 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 - [The complete process of developing an app](https://12factor.net/)
 - [Security for Startups](https://github.com/forter/security-101-for-saas-startups)
 - [Brack's hosting demo](https://github.com/Kedirech/Hosting-demo-postgres)
+- [Designing Large Scale Systems](https://github.com/donnemartin/system-design-primer)
 
 ### Credits
 - problems taken from other [mentors](https://github.com/zacanger/pineapple-curry), Codewars, and from experience.
-- [@brettinternet](https://gist.github.com/brettinternet/2b74e6b1043e15130ad3a443123ccdbc)
+- [@brettinternet](https://github.com/brettinternet)
 
-## My dotfiles and '[rice](http://www.urbandictionary.com/define.php?term=rice)'
+##### Check out my '[rice](http://www.urbandictionary.com/define.php?term=rice)' 🍚
 brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
