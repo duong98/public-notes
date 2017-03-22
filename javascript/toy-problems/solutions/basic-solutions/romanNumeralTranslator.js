@@ -1,13 +1,13 @@
 // take roman numeral as input. write function that converts this to regular number.
 
 var numeralVals = {
-  I : 1
-, V : 5
-, X : 10
-, L : 50
-, C : 100
-, D : 500
-, M : 1000
+  I : 1,
+  V : 5,
+  X : 10,
+  L : 50,
+  C : 100,
+  D : 500,
+  M : 1000
 }
 
 function translateRomanNumeral(romanNumeral){
@@ -28,7 +28,7 @@ function translateRomanNumeral(romanNumeral){
     sum = sum + getsign(numeralVals[text[i]] - numeralVals[text[i + 1]])
     * numeralVals[text[i]]
   }
-  returm sum
+  return sum
 }
 
 function getsign(a){
@@ -38,4 +38,3 @@ function getsign(a){
     return 1
   }
 }
-
