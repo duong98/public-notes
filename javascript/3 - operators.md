@@ -32,7 +32,7 @@ Adding different datatypes can have different effects.
 2000 + NaN // logs NaN
 ```
 
-Adding a string and number, `undefined`, `null`, or `NaN` will take in the values literally as a string. `"string" + undefined` yields a longer string, `"stringundefined"`, or `"string" + null` yields "stringnull".
+Adding a string and number, `undefined`, `null`, or `NaN` will take in the values literally as a string. `"string" + undefined` yields a longer string, `"stringundefined"`, or `"string" + null` yields "stringnull". *This is unique to the `+` operator*.
 
 ##### Subtraction
 We do run into the same inaccuracy issues as before with floating numbers.
