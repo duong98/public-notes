@@ -353,3 +353,27 @@ checker("{}(){}[{()}]");
 ```
 
 ---
+
+Come up with more than one way to reverse a string.
+
+```js
+function reverseString1(str) {
+  let str2 = "";
+  for (let i=str.length - 1; i >= 0; i--) str2 +=str[i];
+  return str2;
+}
+reverseString1("hello");
+
+function reverseString2(str) {
+    return str.split("").reverse().join("");
+}
+reverseString2("hello");
+
+
+function reverseString(str) {
+  return (str === '') ? '' : reverseString(str.substr(1)) + str.charAt(0);
+}
+reverseString("hello");
+```
+
+---

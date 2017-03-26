@@ -1,5 +1,7 @@
 ## Install NSSM with Chocolatey
-`choco install -y nssm`
+```
+choco install -y nssm
+```
 
 
 ## Installing services

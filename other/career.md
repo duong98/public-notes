@@ -4,6 +4,7 @@
 - [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e#.pml18dss0)
 - [Effective Whiteboarding](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [Javascript Interview Questions](https://github.com/kennymkchan/interview-questions-in-javascript)
+- [This is a clojure whiteboard problem](https://aphyr.com/posts/340-acing-the-technical-interview), but it's written so beautifully it's worth a mention.
 
 
 # Improving and Preparation
