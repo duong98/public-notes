@@ -16,8 +16,9 @@
 - `diskutil list` see all disks and partitions
 - `defaults write com.apple.finder AppleShowAllFiles YES` shows hidden files/`NO` to hide
 
-## Useful commands for Ubuntu Server
+## Useful commands for GNU Linux
 - `setterm -blank 0` turn off the terminal black screen saver
+- `chmod +x /path/to/script.sh` to give execute permission and `./script.sh` to run
 
 ## Command-Line Apps
 - [Keybase](https://keybase.io/docs/command_line)

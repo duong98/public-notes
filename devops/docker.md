@@ -9,6 +9,7 @@ For beginners, this is the [best explanation of Docker](https://www.digitalocean
 
 ### Other resources
 - [Docker media server](https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/)
+- A walkthrough on setting up the [TICK stack in docker](https://denlab.io/setup-a-wicked-grafana-dashboard-to-monitor-practically-anything/)
 
 
 Docker commands

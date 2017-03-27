@@ -3,7 +3,8 @@
 ### Variables
 `foo = 9001;` - bug, allows global variable creation
 
-versus
+Unless `use strict` is used.
+
 ```javascript
 'use strict'
 foo = 3001; // logs Runtime Error, can't create global variable
@@ -14,8 +15,8 @@ foo = 3001; // logs Runtime Error, can't create global variable
 #### Primitive data types: number, string, boolean, undefined (uninitialized variable)
 #### Complex data type: object, function
 
-Other objects: `arrays`, `null`
-Example:
+Other objects: `arrays`, `null`:
+
 ```javascript
 let order = [1, 2, 3, 4]
 let order2 = null;
@@ -40,7 +41,7 @@ var printFoo = function() { // function expression - printFoo is not a function 
 ```
 
 ### OTHER
-Switch
+##### Switch
 ```javascript
 switch (true)
   case EXPRESSION_HERE:
@@ -48,14 +49,14 @@ switch (true)
     break;
 ```
 
-While
+##### While
 ```javascript
 let i = 0;
 while (i < 3)
   console.log(i++);
 ```
 
-do while
+##### do while
 ```javascript
 let i = 0;
 do {

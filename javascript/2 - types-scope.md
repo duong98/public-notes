@@ -1,13 +1,22 @@
 # Variables, Types, Scope
 
-##### Javascript compiling
-Two Pass Compilation in Javascript
+##### Javascript compiling - Two Pass Compilation in Javascript
 1. All declarations are located and identifies are known by the compiler
 2. Execution occurs; Because all variables are known from Pass 1, they may be accessed before they're declared.
 
-### #Hoisting
+```js
+var car = 'porsche';
+var getCar = () => {
+  console.log(car); // since the car variable name is reassigned in this scope, car is "undefined" here
+  var car = 'toyota'; // comment out this line and run again...
+}
+
+getCar();
+```
+
+### Hoisting
 Hoisted variables are initialized to undefined
-example:
+
 ```javascript
 console.log(foo); // logs error, not defined
 ```
@@ -27,20 +36,20 @@ function logIt() {
 
 ### Numbers
 
-octo numbers:
+##### octo numbers:
 ```javascript
 let octo = 070; // begins with 0, has base 8
 console.log(octo); // logs 56
 ```
+
 if not a valid octo number or in `'use strict'`, returns decimal number
 
-hexidecimal
+##### hexidecimal
 ```javascript
 let hex = 0x10;
 console.log(hex); // logs 64
 ```
 
-powers
 ```javascript
 let value = 3.2e-4;
 console.log(value); // logs 0.00032
@@ -68,6 +77,7 @@ Truthy: Boolean(' '), Boolean(6)
 Falsey: Boolean(0), Boolean(undefined), Boolean(null)
 
 `!!` turns variables into boolean variables.
+
 ```javascript
 let value = 34;
 console.log(typeof !!value); // logs boolean;
@@ -78,7 +88,7 @@ Best practice for the developer to make variables null, since the javascript eng
 
 `null` is an empty object.
 
-```javascript
+```js
 console.log(undefined == null); // true
 console.log(undefined === null); // false
 ```
@@ -87,7 +97,7 @@ console.log(undefined === null); // false
 
 #### Global scope
 
-```javascript
+```js
 var foo = 3000;
 console.log(foo);
 console.log(window.foo); // both log same result. global scope unless in a function
@@ -102,7 +112,7 @@ console.log(this === window); // true
 
 #### Global scope vs function scope
 
-```javascript
+```js
 let foo = 1;
 function go() {
   let foo = 2;
@@ -113,7 +123,7 @@ console.log(foo); // 1
 variables assignments are only found in current or parent's namespace
 
 
-```javascript
+```js
 try {
   throw 123;
 }
@@ -121,11 +131,13 @@ catch (e) {
   console.log(e); // 123; e is only defined in this catch block here, and not hoisted
 }
 ```
+
 `e` returns ReferenceErrors everywhere except for the block
 
 ##### Closures
 
-WHY? a neat way of handling 2 realities of Javascript
+WHY? a neat way of handling 2 realities of Javascript:
+
 1. scope is at the function level, not the block level
 2. much of what you practice in Javascript is asynchronous and event driven
 
