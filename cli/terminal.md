@@ -19,6 +19,7 @@
 ## Useful commands for GNU Linux
 - `setterm -blank 0` turn off the terminal black screen saver
 - `chmod +x /path/to/script.sh` to give execute permission and `./script.sh` to run
+- [reading system sensors](http://askubuntu.com/questions/15832/how-do-i-get-the-cpu-temperature)
 
 ## Command-Line Apps
 - [Keybase](https://keybase.io/docs/command_line)

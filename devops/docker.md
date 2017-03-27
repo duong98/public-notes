@@ -11,8 +11,15 @@ For beginners, this is the [best explanation of Docker](https://www.digitalocean
 - [Docker media server](https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/)
 - A walkthrough on setting up the [TICK stack in docker](https://denlab.io/setup-a-wicked-grafana-dashboard-to-monitor-practically-anything/)
 
+### Commands
 
-Docker commands
+#### Most used
+- `docker logs <container id>` read container info logs
+- `docker stop $(docker ps -a -q)` stop all containers
+- `docker rm $(docker ps -a -q)` remove all containers
+
+
+#### Docker commands
 ```
 attach    Attach to a running container
 build     Build an image from a Dockerfile

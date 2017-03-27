@@ -371,6 +371,14 @@ reverseString2("hello");
 
 
 function reverseString(str) {
+  if (str === "")
+    return "";
+  else
+    return reverseString(str.substr(1)) + str.charAt(0);
+}
+reverseString("hello");
+// OR WITH TERNARY
+function reverseString(str) {
   return (str === '') ? '' : reverseString(str.substr(1)) + str.charAt(0);
 }
 reverseString("hello");
