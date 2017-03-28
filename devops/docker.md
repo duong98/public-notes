@@ -1,20 +1,23 @@
-### [Docker cheatsheet](https://github.com/wsargent/docker-cheat-sheet)
+
+
+## [Docker cheatsheet](https://github.com/wsargent/docker-cheat-sheet)
 
 For beginners, this is the [best explanation of Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) I've ready. However, some of the commands and distros are dated. Use this as a [docker guide](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04) to install on Linux.
 
-### Dockerizing Node
+## Dockerizing Node
 - [Docker and node](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 - [preferred image](https://github.com/mhart/alpine-node)
 - [Docker compose guide](https://github.com/b00giZm/docker-compose-nodejs-examples/blob/master/05-nginx-express-redis-nodemon/README.md)
 
-### Other resources
+## Other resources
 - [Docker media server](https://blog.qmo.io/the-perfect-media-server-with-docker-plex-and-automatic-bittorrent/)
 - A walkthrough on setting up the [TICK stack in docker](https://denlab.io/setup-a-wicked-grafana-dashboard-to-monitor-practically-anything/)
 
-### Commands
+# Commands
 
 #### Most used
 - `docker logs <container id>` read container info logs
+- `docker ps -a` view all containers
 - `docker stop $(docker ps -a -q)` stop all containers
 - `docker rm $(docker ps -a -q)` remove all containers
 

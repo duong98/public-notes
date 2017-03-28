@@ -1,6 +1,6 @@
+# Using Homebrew
 Homebrew is a package manager for macOS
 
-# Using Homebrew
 `brew install <package>` installs a specific package
 
 `brew update` updates Homebrew's directory of formulae
