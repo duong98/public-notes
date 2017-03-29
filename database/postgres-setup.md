@@ -2,6 +2,11 @@
 
 If you choose to use Postgres from the command line, [use this cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) to learn new commands.
 
+1. **DO NOT** change the default port. `5432` is a commonly appointed port for postgresql
+1. Install Postgres depending on your operating system
+
+
+
 # macOS
 
 ### Server
@@ -38,10 +43,11 @@ You may consider using [Postico](https://eggerapps.at/postico/), another Postgre
 # Windows
 
 ### Server
-1. Open the [Postgres downloads page](https://www.postgresql.org/download/windows/) and select **Download the installer**.
+1. Open the [Postgres downloads page](https://www.postgresql.org/download/windows/) and select **Download the graphical installer** from BigSQL.
 1. Choose the latest Postgres version, then select **Windows x86-64** and *Download*.
 1. Open up the installer and allow it to make changes on your machine.
 1. Run the installer and select all default settings including the default port.
+1. **If you are asked to enter a password for Postgres, remember that password**.
 
 ### Client
 The windows client includes pgAdmin with it. Select `Start` or click the Windows key and search for **pgAdmin** to find the app.
@@ -72,3 +78,13 @@ Here are some important commands that may save you some frustration:
 
 - To quit psql, type `\q` then Enter.
 - Every SQL command must end with a `;` in order for the command to run. If you don't enter a `;`, using Enter will carry you to the next line.
+
+
+# Troubleshooting
+You're welcome to connect to the postgres server with your computer's username, but if you'd like to use the the commonly used default credentials 'postgres' user, you may get an error that says `postgres role does not exist`. If you do get this error, then do the following:
+1. enter `psql` in terminal and input these commands in the psql instance:
+```
+CREATE USER postgres SUPERUSER;
+CREATE DATABASE postgres WITH OWNER postgres;
+```
+1. You can enter `\du` to see a list of users. You should see both your computer's username and 'postgres' listed.

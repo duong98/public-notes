@@ -23,17 +23,32 @@ Recreate `bind`
 
 ```js
 Function.prototype.bind = function(context) {
-  let args = arguments.splice(1);
+  arguments
+  let args = Array.apply(null, arguments).splice(1); // or you could use Array.from(arguments)
   let self = this;
   return function() {
-    self.apply(context, args);
+    return self.apply(context, args);
   }
+}
+
+funky.bind(obj, 1,2,3)();
+
+// OR
+
+Function.prototype.bind = function(context) {
+  let args = [...arguments].splice(1);
+  return () => {
+    return this.apply(context, args);
+  }
+}
+
+// OR
+
+Function.prototype.bind = function(context, ...args) { // args is a rest parameter
+  return () => this.apply(context, args);
 }
 ```
 
-```js
-Function.prototype.apply()
-```
 
 Recreate `map`
 
@@ -49,7 +64,7 @@ Array.prototype.map = function(cb) {
 
 ```js
 Array.prototype.sort = (cb) => {
-  
+
 }
 ```
 
