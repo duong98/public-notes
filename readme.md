@@ -53,6 +53,9 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
 * [Career Resources](./other/career.md)
+* Projects
+  - [Hackintosh](./other/hackintosh.md)
+  - [Raspberry Pi projects](./other/raspberrypi.md)
 
 
 ## 🎒 Resources
@@ -66,6 +69,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
 - [Javascript is drunk, see look](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)
+- [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.md)
 
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)

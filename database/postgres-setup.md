@@ -3,8 +3,8 @@
 If you choose to use Postgres from the command line, [use this cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546) to learn new commands.
 
 1. **DO NOT** change the default port. `5432` is a commonly appointed port for postgresql
-1. Install Postgres depending on your operating system
-
+1. If you set a superuser password to install postgres, **remember that password**.
+1. Install Postgres depending on your operating system.
 
 
 # macOS
@@ -17,6 +17,12 @@ Choose *one* of the following ways to install the Postgres server on macOS:
 1. Open the Postgres app from your applications to start the server.
 
 ###### (b) Homebrew
+First, install [Homebrew](https://brew.sh) with:
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
 1. `brew install postgresql`
 1. `brew services start postgresql` or replace start with `run` if you don't want postgres to start at login
 
@@ -63,6 +69,12 @@ If you somehow don't have pgAdmin installed or you have an older version install
 1. Follow [this guide](https://help.ubuntu.com/stable/serverguide/postgresql.html) for postgresql database setup on ubuntu. There are some helpful answers [here](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge), too.
 
 
+# Docker (advanced)
+1. Install Docker
+```
+docker run --name="postgres" -p 5432:5432 -e POSTGRES_USER=postgres POSTGRES_PASSWORD=foobar -d postgres
+```
+
 # Additional Setup and Usage
 #### Listening for connections
 By default, Postgresql only listens to localhost. For postgresql to accept other connections besides `127.0.0.1` you must modify the postgresql config file. Sudoedit `/etc/postgresql/9.1/main/postgresql.conf` and change `listen_addresses='localhost'` either add additional addresses postgres should accept or `listen_addresses='*'` to accept all connections.
@@ -87,4 +99,5 @@ You're welcome to connect to the postgres server with your computer's username, 
 CREATE USER postgres SUPERUSER;
 CREATE DATABASE postgres WITH OWNER postgres;
 ```
-1. You can enter `\du` to see a list of users. You should see both your computer's username and 'postgres' listed.
+2. You can enter `\du` to see a list of users. You should see both your computer's username and 'postgres' listed.
+3. For more information, [see here](http://stackoverflow.com/questions/15301826/psql-fatal-role-postgres-does-not-exist)

@@ -1,3 +1,7 @@
+# Build
+
+#### Building from Github
+`docker build <uri>#<ref>:<dir>` - for example `docker build https://github.com/docker/rootfs.git#container:docker`
 
 
 ## [Docker cheatsheet](https://github.com/wsargent/docker-cheat-sheet)
