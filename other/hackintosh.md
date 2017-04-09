@@ -33,3 +33,86 @@ Type|Item|Price
 
 ## Rice
 - Replace image `/Applications/Utilities/System Information.app/Contents/Resources/SystemLogo.tiff` (see [here](http://www.idownloadblog.com/2017/01/13/how-to-modify-about-this-mac-hackintosh/))
+
+
+
+
+## Troubleshoot:
+- Kernel panic at start with "system uptime.."  - use clover to fix
+- panic at graphics load in verbose boot: BIOS: Lift your pre-allocated DVMT - Needs to be 64 or 96MB
+- Installer error - 10.12.4, used 10.12.3 instead
+- "The installer payload failed signature check" use a different usb port AND fix your bios time
+
+## Guides
+- https://www.tonymacx86.com/threads/kaby-lake-hd620-working.209598/
+- https://www.tonymacx86.com/threads/success-sierra-win10-i5-7500-ga-h270n-wifi-quadro-k1200-samsung-960pro-nvme-imac17-1.215787/
+- https://www.tonymacx86.com/threads/new-testing-intel-7th-generation-kaby-lake-cpus-200-series-motherboards-in-macos.211743/
+
+### Repairing Permissions and Rebuilding Kext Cache
+These are good maintenance tools - they ensure permissions are correct on the boot drive, and that the kext cache is not populated with old, or unused kexts. They are all entered into the Terminal.
+##### For repairing permissions:
+```
+sudo /usr/libexec/repair_packages --repair --standard-pkgs --volume /
+```
+
+##### For rebuilding kext cache:
+```
+sudo rm -r /System/Library/Caches/com.apple.kext.caches
+sudo touch /System/Library/Extensions
+sudo kextcache -update-volume /
+```
+
+## Installation
+Adapted from CorpNewt: https://www.reddit.com/r/hackintosh/comments/4pgfmn/does_my_build_look_okay/
+
+1. `diskutil list` to see which disk# your USB flash drive is. Then,
+
+```
+diskutil partitionDisk /dev/diskX GPT JHFS+ "USB" 100%
+```
+
+but replace "X" with your disk #
+
+2.
+```
+sudo "/Applications/Install macOS Sierra.app/Contents/Resources/createinstallmedia" --volume "/Volumes/USB" --applicationpath "/Applications/Install macOS Sierra.app" --nointeraction
+```
+
+sudo "/Users/Elk/Desktop/Install macOS Sierra.app/Contents/Resources/createinstallmedia" --volume "/Volumes/USB2" --applicationpath "/Users/Elk/Desktop/Install macOS Sierra.app" --nointeraction
+
+3. Use edited `config.plist` (some edits suggested by CorpNewt for Skylake build) and spoofed iMac 7,1. Copy config to `EFI` partition
+
+4. Install Clover to USB with these options:
+```
+Install for UEFI booting only
+Install Clover in the ESP
+Drivers64-UEFI
+  OsxAptioFix2Drv-64
+  PartitionDxe-64
+```
+
+5. Add the following kexts to `EFI/Clover/kexts/other`:
+- FakeSMC.kext
+- IntelMausiEthernet.kext
+- USBInjectAll.kext
+- AppleALC.kext
+- FakePCIID
+- FakePCIID_Intel_Graphics
+
+USB setup is done.
+
+6. BIOS: These are the suggested settings for Skylake mobo BIOS:
+BIOS Settings
+>Load Optimized Defaults
+>If your BIOS has a VT-d setting, disable it
+>If your system has CFG-Lock, disable it
+>If your system has Secure Boot Mode, disable it
+>Set OS Type to Other OS
+>Set XHCI Handoff to Enabled
+>If you have a Serial port, disable it
+
+Also, set the display to iGPU for onboard graphics or PCI for a GPU.
+
+
+### Post-Install
+https://github.com/Floris497/mac-pixel-clock-patch-V2

@@ -43,3 +43,9 @@
 ### Configurations
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Prezto](https://github.com/sorin-ionescu/prezto)
+
+
+
+# chown
+
+`cut -d: -f1 /etc/group` to view complete list of chown groups
