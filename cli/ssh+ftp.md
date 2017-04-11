@@ -2,9 +2,9 @@
 - Generate an SSH key with `ssh-keygen -t rsa`
   - Create a passphrase when prompted
 - View your public key `cat ~/.ssh/id_rsa.pub`
+- Add your public key to a remote server's `/.ssh/authorized_keys`
 
-
-# FTP (SFTP)
+## FTP (SFTP)
 `sftp -p [username]@[host]`
 
 add `l` before commands to navigate your own FS in the terminal. (i.e. `lpwd`)

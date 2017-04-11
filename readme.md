@@ -54,7 +54,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
   - [Webpack](./compiling/webpack.md)
 * [Career Resources](./other/career.md)
 * Projects
-  - [Hackintosh](./other/hackintosh.md)
+  - [my latest Hackintosh build](https://github.com/brettinternet/hackintosh)
   - [Raspberry Pi projects](./other/raspberrypi.md)
 
 
