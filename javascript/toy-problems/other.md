@@ -385,3 +385,17 @@ reverseString("hello");
 ```
 
 ---
+
+Given an array of integers, find the largest product yielded from three of the integers
+```js
+var unsortedArray = [-10, 7, 29, 30, 5, -10, -70];
+
+computeProduct(unsortedArray); // 21000
+
+function computeProduct(arr) {
+  let a = arr.sort((a, b) => { return b - a }),
+  product1 = a[0] * a[1] * a[2],
+  product2 = a[0] * a[a.length-1] * a[a.length-2];
+  return product1 > product2 ? product1 : product2;
+}
+```
