@@ -25,7 +25,7 @@
 - [Keybase](https://keybase.io/docs/command_line)
 - mopidy + mopidy-spotify + ncmpcpp = music on the cli
 - RTV for reddit
-- [more CLI apps](https://github.com/brettinternet/awesome-command-line-apps)
+- [more CLI apps](https://github.com/herrbischoff/awesome-command-line-apps)
 
 
 ## iTerm2 Themes

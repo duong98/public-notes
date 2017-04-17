@@ -47,6 +47,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 * [Career Resources](./other/career.md)
 * Projects
   - [my latest Hackintosh build](https://github.com/brettinternet/hackintosh)
+  - [InternetBot.py](https://github.com/brettinternet/InternetBot.py) - a Discord chat bot
   - [Raspberry Pi projects](./other/raspberrypi.md)
 * My Stuff
   - my '[rice](http://www.urbandictionary.com/define.php?term=rice)' 🍚 : brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
@@ -65,6 +66,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
 - [Javascript is drunk, see look](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.md)
+- [To Semicolon or Not to Semicolon](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
 
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)

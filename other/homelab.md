@@ -1,3 +1,10 @@
+# Resources for my Home Servers
+
+
+## Grafana
+- [plexpy => influxDB](https://github.com/JeordyR/plexpyInflux) OR [here](https://github.com/brettinternet/plexpy2influx) in Node
+
+# Home Automation
 For Alex setup [see here](./alexa-echo.md)
 
 # Lights
