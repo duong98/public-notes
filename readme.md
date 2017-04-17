@@ -1,5 +1,5 @@
 
-### Brett's Public Notes 📝
+### 📝 Brett's Public Notes
 
 This repo contains some of my public notes on a few tools that I use. I'm always learning, so I keep this repo updated always. My notes offer...
 
@@ -9,27 +9,23 @@ This repo contains some of my public notes on a few tools that I use. I'm always
 In the age of the internet, no one should have to remember everything.
 
 > Everything not saved will be lost.
-
+>
 > \- _Nintento "Quit Screen" message_
 
 For some of these services, I've mostly catered to macOS with Homebrew. For my desktop PC, I use [Chocolately](https://chocolatey.org/) and [NSSM](http://nssm.cc/) for services, and Linux has its own CLI tools. Eventually I'll add additional notes for PC & Linux.
 
-If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot-pc-linux.md). While I do have my own PC server, I believe Unix systems are better for serving and for developing.
+If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot-pc-linux.md) or maybe try a [hackintosh](https://github.com/brettinternet/hackintosh). While I do have my own PC server, I believe Unix systems are better for developing.
 
 ---
 
-# Table of Contents
+# 📦 Table of Contents
 
 * [Javascript](./javascript)
-  - [Toy Problems](./javascript/toy-problems)
 * [Angular](./angular)
 * [CSS](./CSS)
-  - [CSS Practice](./css/css-practice)
 * [React](./react)
-  - [React Practice](./react/react-practice)
 * [Node](./react)
-  - [Node Practice](./node/node-practice)
-  - [Express Practice](./node/express-practice)
+* [Database](./database)
 * [Command line](./cli)
   - [Homebrew](./cli/homebrew.md)
   - [Git](./cli/git.md)
@@ -38,11 +34,6 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
   - [tmux](./cli/tmux.md)
   - [SSH & FTP](./cli/ssh+ftp.md)
 * [DevOps](./devops) - pfSense, Heroku, Docker, backup, building webapps, dual boot pc/linux
-* [Database](./database)
-  - [Postgres Setup](./database/postgres-setup.md)
-  - [Postgres](./database/postgres.md)
-  - [MySQL](./database/mysql.md)
-  - [Mongo Practice](./database/mongo-practice)
 * [PowerShell Scripts](./powershell)
 * [AppleScript](./applescript)
 * Editors
@@ -52,10 +43,15 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 * [Compiler configs](./compiling)
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
+* [Amazon S3 Demo](https://github.com/brettinternet/s3-demo)
 * [Career Resources](./other/career.md)
 * Projects
   - [my latest Hackintosh build](https://github.com/brettinternet/hackintosh)
+  - [InternetBot.py](https://github.com/brettinternet/InternetBot.py) - a Discord chat bot
   - [Raspberry Pi projects](./other/raspberrypi.md)
+* My Stuff
+  - my '[rice](http://www.urbandictionary.com/define.php?term=rice)' 🍚 : brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
+  - [CV](https://github.com/brettinternet/cv) made with LaTeX
 
 
 ## 🎒 Resources
@@ -70,6 +66,7 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
 - [Javascript is drunk, see look](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.md)
+- [To Semicolon or Not to Semicolon](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
 
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)
@@ -79,8 +76,5 @@ If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot
 - [Designing Large Scale Systems](https://github.com/donnemartin/system-design-primer)
 
 ### Credits
-- problems taken from other [mentors](https://github.com/zacanger/pineapple-curry), Codewars, and from experience.
+- practice problems taken from other [mentors](https://github.com/zacanger/pineapple-curry), Codewars, and from experience.
 - [@brettinternet](https://github.com/brettinternet)
-
-##### Check out my '[rice](http://www.urbandictionary.com/define.php?term=rice)' 🍚
-brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
