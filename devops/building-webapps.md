@@ -32,9 +32,12 @@ Inspiration from the web:
 
 # Resources
 ### Hosting
+- [DevMountain Hosting Demo](https://github.com/DevMountain/Hosting-demo-postgres)
+- [Hosting with Digital Oceans](https://github.com/zacanger/doc/blob/master/digital-ocean.md)
 - https://dnsimple.com/
 
 ### Website setup
+- [Website Launch Checklist](https://github.com/zacanger/doc/blob/master/website_launch_checklist.md)
 - https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/
 
 ### Extend your web app
