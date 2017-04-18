@@ -3,6 +3,10 @@
 [ todo... ]
 
 
+## VPN Client
+Recommended VPN: [Private Internet Access](https://www.privateinternetaccess.com/)
+
+[Configuring pfSense as a VPN Client to PIA](https://forum.pfsense.org/index.php?topic=76015.0)
 
 ## Acme certificates
 
