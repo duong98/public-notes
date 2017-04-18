@@ -17,7 +17,7 @@ _*NEVER*_ share your `private key` with anyone. Pass out your `public key` like 
 
 SSH utilizes public-key encryption. Check out the mac app [GPG Tools](https://gpgtools.org/) which is an implementation of [GnuPG](https://www.gnupg.org/) for this same concept applied to encrypting emails.
 
-# Public-Key Cryptography Explanation
+### Public-Key Cryptography Explanation
 
 I use [this article](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5#.cm62911lz) to offer an explanation below of what public-key crytography is.
 
