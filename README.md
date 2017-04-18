@@ -14,7 +14,7 @@ In the age of the internet, no one should have to remember everything.
 
 For some of these services, I've mostly catered to macOS with Homebrew. For my desktop PC, I use [Chocolately](https://chocolatey.org/) and [NSSM](http://nssm.cc/) for services, and Linux has its own CLI tools. Eventually I'll add additional notes for PC & Linux.
 
-If you're on a PC, you make consider [dual booting with Ubuntu](./other/dualboot-pc-linux.md) or maybe try a [hackintosh](https://github.com/brettinternet/hackintosh). While I do have my own PC server, I believe Unix systems are better for developing.
+If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-pc-linux.md) or maybe try a [hackintosh](https://github.com/brettinternet/hackintosh). While I do have my own PCs, I believe Unix systems are better for developing.
 
 ---
 
