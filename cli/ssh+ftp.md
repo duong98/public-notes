@@ -1,7 +1,7 @@
 ## SSH
 - Generate an SSH key with `ssh-keygen -t rsa`
   - Create a passphrase when prompted
-- View your public key `cat ~/.ssh/id_rsa.pub`
+- View your public key `cat ~/.ssh/id_rsa.pub` or use `cat ~/.ssh/id_rsa.pub | pbcopy` to copy it to your clipboard
 - Add your public key to a remote server's `/.ssh/authorized_keys`
 
 ## FTP (SFTP)

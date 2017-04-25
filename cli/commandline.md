@@ -18,9 +18,21 @@
 - `defaults write -g ApplePressAndHoldEnabled -bool false` turns off special characters popup
 
 ## Useful commands for GNU Linux
+- `sudo apt-get update && time sudo apt-get dist-upgrade` to upgrade the distro
 - `setterm -blank 0` turn off the terminal black screen saver
 - `chmod +x /path/to/script.sh` to give execute permission and `./script.sh` to run
 - [reading system sensors](http://askubuntu.com/questions/15832/how-do-i-get-the-cpu-temperature)
+
+#### Setting up Swap
+1. `touch /swapfile`
+1. `fallocate -l 1g /swapfile`
+1. `chmod 600 /swapfile`
+1. `mkswap /swapfile`
+1. `swapon /swapfile`
+
+- `echo '/swapfile none swap sw 0 0' >> /etc/fstab` to reuse swapfile on restart
+- turn off the swapfile with `swapoff /swapfile`
+- [More information](https://github.com/DevMountain/Hosting-demo-postgres#swap----optional)
 
 ## Command-Line Apps
 - [Keybase](https://keybase.io/docs/command_line)
