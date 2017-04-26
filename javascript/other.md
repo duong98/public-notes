@@ -25,6 +25,7 @@
 
 ---
 # Other
+- [ES6 Generators](https://davidwalsh.name/es6-generators)
 
 ## Resources
 - [What the heck, Javascript?](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)

@@ -69,6 +69,29 @@ Array.prototype.sort = (cb) => {
 ```
 
 
+Fibonacci number - After the seed numbers, 0 and 1, each successive number is the sum of the previous two numbers
+
+```js
+let fibonacci = (n) => {
+  if (n <= 2) {
+      return 1;
+  } else {
+      return fibonacci(n - 1) + fibonacci(n - 2);
+  }
+}
+
+// OR
+
+function* fib (n) {
+  const isInfinite = n === undefined;
+  let current = 0;
+  let next = 1;
+  while (isInfinite || n--) {
+    yield current;
+    [current, next] = [next, current + next];
+  }
+}
+```
 
 
 ## Debugging

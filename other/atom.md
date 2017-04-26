@@ -28,6 +28,7 @@
 
 ## Opinionated
 - [bracket-padder](https://atom.io/packages/bracket-padder)
+- [vim-mode-plus](https://atom.io/packages/vim-mode-plus)
 
 ## UI
 - [atom-material-ui](https://github.com/atom-material/atom-material-ui)
@@ -38,3 +39,6 @@
 
 ### Shortcuts
 For some Atom shortcuts, [check this out](https://github.com/brettinternet/atom-keyboard-shortcuts).
+
+# Atom Resources
+- [Vim mode plus tutorial](https://github.com/t9md/atom-vim-mode-plus/wiki/AdvancedTopicTutorial)
