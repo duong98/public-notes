@@ -101,3 +101,11 @@ CREATE DATABASE postgres WITH OWNER postgres;
 ```
 2. You can enter `\du` to see a list of users. You should see both your computer's username and 'postgres' listed.
 3. For more information, [see here](http://stackoverflow.com/questions/15301826/psql-fatal-role-postgres-does-not-exist)
+
+
+# Transfer Database to Another Server
+1. `pg_dump the_db_name > the_backup.sql`
+1. use `sftp` to transfer your sql file to your server `put the_backup.sql`
+1. `psql the_new_dev_db < the_backup.sql`
+
+[See other ways to transfer DB](http://stackoverflow.com/questions/1237725/copying-postgresql-database-to-another-server)
