@@ -13,6 +13,7 @@ Rules:
 - [Coderust](https://www.educative.io/collection/5642554087309312/5679846214598656) is an alternative to [CTCI](https://github.com/careercup/ctci)
 - [Reddit's how to prepare for tech interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - [algorithm and Data Structure resource](https://leetcode.com/)
+- [DevMountain Jeremy's Road Map for studying after the bootcamp](https://docs.google.com/document/d/10gjpjAOJPg8KxOwLb6zz0lRvjHo71TDhnc1_XMcHqxg/edit)
 
 
 For more insight on these notes, check out [this post](https://www.linkedin.com/pulse/5-key-learnings-from-post-bootcamp-job-search-felix-feng) written by a bootcamp grad on his job search.
