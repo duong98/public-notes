@@ -27,11 +27,19 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 - [Javascript Interview Questions](https://github.com/kennymkchan/interview-questions-in-javascript)
 - [This is a clojure whiteboard problem](https://aphyr.com/posts/340-acing-the-technical-interview), but it's written so beautifully it's worth a mention.
 
+###### Whiteboarding Approach
+1. write sample data
+2. solve your own sample data (without code)
+3. pseudo-code, define the steps in the process in verbose
+4. write the code solution
+
 
 ### Ask the Interviewer Questions
 - What are some technical challenges you’ve recently faced?
 - What do you enjoy about working at X company?
 - How are teams structured and how are tasks usually divided?
+
+Look at the company's Glassdoor reviews and bring up any other concerns you have about the position or company.
 
 
 # Improving and Preparation
@@ -45,3 +53,29 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 
 # And Beyond
 - [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
+
+
+---
+
+# General WebDev Interview Questions
+## Conceptual Questions:
+
+### CSS
+1. box-model
+
+### JS
+1. What does semantic HTML mean?
+1. What is the box model?
+1. What is the difference between IDs and Classes?
+1. What does the z-index do?
+1. Summarize what the keyword 'this' is used for?
+1. What is a callback?
+1. What is a closure?
+1. How does prototype work?
+1. What is MVC?
+1. What is the component lifecycle?
+1. What is REST?
+1. Name three ways of getting data from the URL using express
+
+### Angular
+1. Angular MVC
