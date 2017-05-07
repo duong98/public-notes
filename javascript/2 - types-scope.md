@@ -144,3 +144,8 @@ WHY? a neat way of handling 2 realities of Javascript:
 2. much of what you practice in Javascript is asynchronous and event driven
 
 <!-- http://stackoverflow.com/questions/111102/how-do-javascript-closures-work -->
+
+
+_DEFINITION_: A **higher-order function** is when a function takes a function as an argument and/or returns a function.
+
+A function that is passed in as an argument to another function is known as a callback -- because at some point, the higher-order function 'calls back' this function.

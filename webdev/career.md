@@ -53,29 +53,3 @@ Look at the company's Glassdoor reviews and bring up any other concerns you have
 
 # And Beyond
 - [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
-
-
----
-
-# General WebDev Interview Questions
-## Conceptual Questions:
-
-### CSS
-1. box-model
-
-### JS
-1. What does semantic HTML mean?
-1. What is the box model?
-1. What is the difference between IDs and Classes?
-1. What does the z-index do?
-1. Summarize what the keyword 'this' is used for?
-1. What is a callback?
-1. What is a closure?
-1. How does prototype work?
-1. What is MVC?
-1. What is the component lifecycle?
-1. What is REST?
-1. Name three ways of getting data from the URL using express
-
-### Angular
-1. Angular MVC

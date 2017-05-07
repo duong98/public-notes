@@ -10,10 +10,38 @@
 - [Title case a sentence](https://medium.freecodecamp.com/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27#.wxvzuvj5u)
 
 
+
 # Toy Problems
 
 ## Popular Problems
 - [Javascript Interview Questions](https://github.com/kennymkchan/interview-questions-in-javascript)
+
+###### Fibonacci number
+Definition: After the seed numbers, 0 and 1, each successive number is the sum of the previous two numbers.
+
+```js
+let fibonacci = (n) => {
+  if (n <= 2) {
+      return 1;
+  } else {
+      return fibonacci(n - 1) + fibonacci(n - 2);
+  }
+}
+
+// OR with generators (fancy...but impractical)
+
+function* fib (n) {
+  const isInfinite = n === undefined;
+  let current = 0;
+  let next = 1;
+  while (isInfinite || n--) {
+    yield current;
+    [current, next] = [next, current + next];
+  }
+}
+```
+
+
 
 ## Learn to recreate Javascript
 
@@ -47,7 +75,7 @@ Function.prototype.bind = function(context) {
   }
 }
 
-funky.bind(obj, 1,2,3)();
+thisFunction.bind(obj, 1,2,3)();
 
 // OR
 
@@ -62,32 +90,6 @@ Function.prototype.bind = function(context) {
 
 Function.prototype.bind = function(context, ...args) { // args is a rest parameter
   return () => this.apply(context, args);
-}
-```
-
-
-###### Fibonacci number
-Definition: After the seed numbers, 0 and 1, each successive number is the sum of the previous two numbers.
-
-```js
-let fibonacci = (n) => {
-  if (n <= 2) {
-      return 1;
-  } else {
-      return fibonacci(n - 1) + fibonacci(n - 2);
-  }
-}
-
-// OR
-
-function* fib (n) {
-  const isInfinite = n === undefined;
-  let current = 0;
-  let next = 1;
-  while (isInfinite || n--) {
-    yield current;
-    [current, next] = [next, current + next];
-  }
 }
 ```
 

@@ -44,7 +44,9 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
   - [Gulp](./compiling/gulpfile.js)
   - [Webpack](./compiling/webpack.md)
 * [Amazon S3 Demo](https://github.com/brettinternet/s3-demo)
-* [Career Resources](./other/career.md)
+* [WebDev Resources](./webdev)
+  - [Career](./webdev/career.md)
+  - [Interview Questions](./webdev/interview-questions.md)
 * Projects
   - [my latest Hackintosh build](https://github.com/brettinternet/hackintosh)
   - [InternetBot.py](https://github.com/brettinternet/InternetBot.py) - a Discord chat bot
