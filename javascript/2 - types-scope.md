@@ -136,6 +136,8 @@ catch (e) {
 
 ##### Closures
 
+- A closure occurs at runtime and happens when a function returns another function _including_ the entire context of that function (all of the variable definitions in its parent function).
+
 WHY? a neat way of handling 2 realities of Javascript:
 
 1. scope is at the function level, not the block level

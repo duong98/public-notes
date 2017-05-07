@@ -24,8 +24,6 @@
   - React on Rails (Ruby)
 
 
-
-
 ## [Component Lifecycle](https://facebook.github.io/react/docs/react-component.html)
 
 ![lifecycle](./lifecycle.png)
