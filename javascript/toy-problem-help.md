@@ -1,7 +1,8 @@
 # Practice
 
 ## Useful resources
-- Check out my [career](./../../other/career.md) for additional whiteboarding help
+- Check out my [career](./../../webdev/career.md) for additional whiteboarding help
+- [Conceptual Javascript questions](./../../webdev/interview-questions.md)
 - [Reversing a string](https://medium.freecodecamp.com/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb#.21a6igs2v)
 - [Check for palindromes](https://medium.freecodecamp.com/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7#.cloixfqz0)
 - [Factorialize numbers](https://medium.freecodecamp.com/how-to-factorialize-a-number-in-javascript-9263c89a4b38#.8uwibba2o)

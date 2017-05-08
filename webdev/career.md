@@ -20,6 +20,9 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 
 # Interviewing
 - [Frontend Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [JS Interview Questions](./../javascript/js-interview.md) (my notes)
+- [General webdev interview questions](./interview-questions) (my notes)
+
 
 ### Whiteboarding
 - [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e#.pml18dss0)
@@ -40,6 +43,8 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 - How are teams structured and how are tasks usually divided?
 
 Look at the company's Glassdoor reviews and bring up any other concerns you have about the position or company.
+
+[This list has about every question you'd ever need to ask a prospective employer](https://github.com/ChiperSoft/InterviewThis).
 
 
 # Improving and Preparation

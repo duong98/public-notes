@@ -6,6 +6,9 @@
 ## Conceptual Questions
 
 ### HTML/CSS
+- [HTML](http://www.thatjsdude.com/interview/html.html)
+- [CSS](http://www.thatjsdude.com/interview/css.html)
+
 ###### What is the DOM?
 The Document Object Model is the API for creating HTML and XML documents and accessing elements of a webpage. Various languages can interact with this API like HTML, Javascript, and .NET.
 
@@ -34,6 +37,8 @@ An element can only have 1 ID, while multiple classes. IDs are more specific tha
 It specifies the stack order of an element. If `x` and `y` are planar axis on the screen, the `z axis` moves into and away from the screen.
 
 ### JavaScript
+[Additional JavaScript questions & resources](./../javascript/js-interview.md)
+
 ###### Summarize what the keyword 'this' is used for?
 The keyword this is used to access and reference _context_ in a function. The `this` reference **always** refers to an object.
 
@@ -76,3 +81,5 @@ The `controller` receives user input and makes calls to the model objects and vi
 #### React
 ###### What is the component lifecycle?
 Events that occur at particle times in React's DOM manipulation. Component methods allow us to manipulate and override these events at particular times while the component is being created, inserted into the DOM, updated on the DOM, and removed from the DOM.
+
+[5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
