@@ -8,6 +8,7 @@ Behavioral
 
 ### Additional Resources
 - [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ## Model-view-controller is an application architectural pattern.
 The `model` is the data and data-management of the app. It manages fundamental behavior/data of the application, responds to requests and instructions to change the state of its information.

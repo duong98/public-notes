@@ -58,3 +58,4 @@ Look at the company's Glassdoor reviews and bring up any other concerns you have
 
 # And Beyond
 - [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
+- [Moonlight for money](https://github.com/mezod/awesome-indie)

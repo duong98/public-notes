@@ -55,6 +55,10 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
   - my '[rice](http://www.urbandictionary.com/define.php?term=rice)' 🍚 : brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
   - [CV](https://github.com/brettinternet/cv) made with LaTeX
 
+* Non-code
+  - [food](./other/food.md)
+  - [health](./other/health.md)
+
 
 ## 🎒 Resources
 ### Developer
