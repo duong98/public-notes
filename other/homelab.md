@@ -7,9 +7,13 @@
 # Home Automation
 For Alex setup [see here](./alexa-echo.md)
 
-# Lights
+### Lights
 - [Cheap lights ways](https://timleland.com/wireless-power-outlets/) and [here](https://www.samkear.com/hardware/control-power-outlets-wirelessly-raspberry-pi)
 
-# Node
+### Node
 - [Home-automation](https://github.com/deepsyx/home-automation)
 - [Pimatic](https://pimatic.org/)
+
+
+# Bots
+- [List of bot resources](https://github.com/BotCube/awesome-bots)

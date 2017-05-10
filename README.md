@@ -71,6 +71,9 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 - [To Semicolon or Not to Semicolon](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
 - [Setting up an open source JS library](https://gist.github.com/deadcoder0904/58d821cf07b1d943e3846971d0cc4497)
 
+### Lists
+- [Awesome Lists](https://github.com/sindresorhus/awesome) - the ultimate list of lists
+
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)
 - [The complete process of developing an app](https://12factor.net/)
