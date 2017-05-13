@@ -1,5 +1,21 @@
 # Modularity
 
+##### Import modules
+```py
+import sys as command
+port = command.argv[1]
+
+# OR
+
+from sys import argv
+
+# OR
+
+from file_module import (This, That, What, Ever)
+from other_file import This, Whatever, Okay, \
+    Ok, Cool, Some_More, Modules
+```
+
 ## Modules, scripts, programs
 
 | Attribute | Pros

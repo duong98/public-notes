@@ -1,3 +1,15 @@
+# Type systems
+| | | |
+|---|---|---|
+| | Static | Dynamic
+| Strong | `Haskell` `C++` | `Python` `Ruby`
+| Weak |  | `JS` `Perl`
+
+Dynamic: object types are only resolved at runtime
+Strong: no implicit type conversion
+
+`type()` to view the type of an object
+
 # Scalar types and values
 
 ## int
