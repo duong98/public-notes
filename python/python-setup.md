@@ -1,6 +1,15 @@
 # Resources
 - [Python Glossary](https://github.com/zacanger/doc/blob/master/python-glossary.md)
 
+# Installation
+## Windows
+1. Download installer from python.org. (or consider installing with `chocolately`)
+2. Run installer. (don't install in program files)
+3. Register python with environment variables.
+
+## macOS
+Use `brew` to install python and legacy versions.
+
 
 # Useful commands (for Unix)
 
