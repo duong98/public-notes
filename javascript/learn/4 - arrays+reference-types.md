@@ -91,9 +91,17 @@ arr.sort((val1, val2) => { return val1 - val2 }); // [1, 2, 3, 4, 10]
 ```
 
 
-
-
-# Dates
-
-
 # Regular Expressions
+
+```js
+let text = 'Sam I Am';
+// let pattern = new RegExp('am', 'g');
+let pattern = /m/g; // valid shorthand
+
+console.log(pattern instanceof RegExp); // true
+console.log(pattern.test(text)); // true - false if the pattern didn't match
+
+console.log(pattern.exec(text)); // similar to `.test` but with additional information in an array
+
+console.log(text.match(pattern)); // an array of all the matches
+```

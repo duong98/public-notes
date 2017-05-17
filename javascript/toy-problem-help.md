@@ -94,6 +94,9 @@ Function.prototype.bind = function(context, ...args) { // args is a rest paramet
 }
 ```
 
+## Niche Nuances
+- [Random interesting](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)
+
 
 ## Debugging
 
