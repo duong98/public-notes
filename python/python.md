@@ -1,4 +1,4 @@
-# Resources
+# Setup
 - [Python Glossary](https://github.com/zacanger/doc/blob/master/python-glossary.md)
 
 # Installation
@@ -40,3 +40,8 @@ Django design pattern: MVT - model, view, template (much like MVC, except views 
 - `r` before the string denotes 'raw string'
   - Example: `r'^what/.*$'` matches any URL starting with 'what'
 - `r'^$'` matches the root URL
+
+# Setup
+
+- https://github.com/misterch0c/Awesome-Hacking - meta list of security resources, most are in python
+- https://github.com/keon/algorithms

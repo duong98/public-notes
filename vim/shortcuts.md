@@ -1,6 +1,36 @@
 ## Modes
-* Command mode: the editor begins in this mode and can be accessed with the `[ESC]` key.
+* Normal mode: the editor begins in this mode and can be accessed with the `[ESC]` key. Use to navigate the file.
 * Insert mode: enter with an insertion or change command.
+* Visual mode: highlight portions of the file to manipulate at once.
+* Ex mode: command mode
+
+command + motion
+`caw` - delete whole word and insert
+`di[` - delete in bracket
+`yi)` - copy in parenthesis
+`va"` - visual select including quotes
+
+`.` - repeat the last motion where the cursor is
+
+`yy` - copy current line
+
+
+`m[key]` - mark a key to return to it with ``[key]`
+
+
+* `,d` brings up [NERDTree](https://github.com/scrooloose/nerdtree), a sidebar buffer for navigating and manipulating files
+* `,t` brings up [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim), a project file filter for easily opening specific files
+* `,b` restricts ctrlp.vim to open buffers
+* `,a` starts project search with [ag.vim](https://github.com/rking/ag.vim) using [the silver searcher](https://github.com/ggreer/the_silver_searcher) (like ack, but faster)
+* `ds`/`cs` delete/change surrounding characters (e.g. `"Hey!"` + `ds"` = `Hey!`, `"Hey!"` + `cs"'` = `'Hey!'`) with [vim-surround](https://github.com/tpope/vim-surround)
+* `gcc` toggles current line comment
+* `gc` toggles visual selection comment lines
+* `vii`/`vai` visually select *in* or *around* the cursor's indent
+* `Vp`/`vp` replaces visual selection with default register *without* yanking selected text (works with any visual selection)
+* `,[space]` strips trailing whitespace
+* `<C-]>` jump to definition using ctags
+* `,l` begins aligning lines on a string, usually used as `,l=` to align assignments
+* `<C-hjkl>` move between windows, shorthand for `<C-w> hjkl`
 
 ## Quitting
 * **`:x`**	Exit, saving changes <br/>
@@ -34,10 +64,11 @@
 * **`{`**	Move a paragraph back <br/>
 * **`}`**	Move a paragraph forward <br/>
 * **`0`**	Move to the beginning of the line <br/>
-* **`H`**	Move to top of screen <br/>
-* **`M`**	Move to middle of screen <br/>
-* **`L`**	Move to button of screen <br/>
+* **`H`**	Move to _top_ of screen <br/>
+* **`M`**	Move to _middle_ of screen <br/>
+* **`L`**	Move to _bottom_ of screen <br/>
 * **`%`**	Move to associated ( ), { }, [ ] <br/>
+* **`^y`**/**`^e`** 	Scroll up and down on the page <br/>
 
 ## Search for strings
 * **`/str`**	Search forward for string<br/>
@@ -46,7 +77,7 @@
 * **`N`**	Search for previous instance of string<br/>
 
 ## Deleting Text
-Almost all deletion commands are performed by typing d followed by a motion. For example, **`dw`** deletes a word. A few other deletes are:
+Almost all deletion commands are performed by typing `d` followed by a motion. For example, **`dw`** deletes a word. A few other deletes are:
 
 * **`x`**	Delete character to the right of cursor<br/>
 * **`X`**	Delete character to the left of cursor<br/>
