@@ -17,3 +17,7 @@ For Alex setup [see here](./alexa-echo.md)
 
 # Bots
 - [List of bot resources](https://github.com/BotCube/awesome-bots)
+
+
+# Media Server
+- https://github.com/hubbcaps/auto-borrow-box
