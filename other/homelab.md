@@ -20,4 +20,3 @@ For Alex setup [see here](./alexa-echo.md)
 
 
 # Media Server
-- https://github.com/hubbcaps/auto-borrow-box
