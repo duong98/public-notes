@@ -1,4 +1,3 @@
-
 ### 📝 Brett's Public Notes
 
 This repo contains some of my public notes on a few tools that I use. I'm always learning, so I keep this repo updated always. My notes offer...
@@ -35,8 +34,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
   - [tmux](./cli/tmux.md)
   - [SSH & FTP](./cli/ssh+ftp.md)
 * [DevOps](./devops) - pfSense, Heroku, Docker, backup, building webapps, dual boot pc/linux
-* [PowerShell Scripts](./powershell)
-* [AppleScript](./applescript)
+* [Scripts](./scripts)
 * Editors
   - [Atom packages](./other/atom.md)
   - [Vim](./other/vim.md)

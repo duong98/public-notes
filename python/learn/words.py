@@ -8,6 +8,7 @@ Example URL:
     python3 words.py https://gist.githubusercontent.com/brettinternet/566ef8c457f764cbb0c311e1ecce042c/raw/2f1f285afb874d6a0c6cf8ac20078df9de53d839/two-cities.txt
 """
 
+import logging
 from sys import argv
 from urllib.request import urlopen
 
@@ -43,4 +44,9 @@ def main(url):
 
 
 if __name__ == '__main__':
-    main(argv[1]) # the 0th arg is the module filename, our url arg is index 1
+    logging.info(argv)
+    if len(argv) > 1:
+        url = argv[1]
+    else:
+        url = 'https://gist.githubusercontent.com/brettinternet/566ef8c457f764cbb0c311e1ecce042c/raw/2f1f285afb874d6a0c6cf8ac20078df9de53d839/two-cities.txt'
+    main(url) # the 0th arg is the module filename, our url arg is index 1
