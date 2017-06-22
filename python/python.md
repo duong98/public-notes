@@ -41,7 +41,7 @@ Django design pattern: MVT - model, view, template (much like MVC, except views 
   - Example: `r'^what/.*$'` matches any URL starting with 'what'
 - `r'^$'` matches the root URL
 
-# Setup
+# Resources
 
 - https://github.com/misterch0c/Awesome-Hacking - meta list of security resources, most are in python
 - https://github.com/keon/algorithms
