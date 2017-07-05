@@ -1,6 +1,7 @@
 # React
 
 ### Learning React
+- [React: Under the hood](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [React Demos](https://github.com/ruanyf/react-demos)
 - [React-router-redux](https://github.com/reactjs/react-router-redux/tree/master/examples/basic) (basic example)
 
