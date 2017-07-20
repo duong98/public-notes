@@ -74,6 +74,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.md)
 - [To Semicolon or Not to Semicolon](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
 - [Setting up an open source JS library](https://gist.github.com/deadcoder0904/58d821cf07b1d943e3846971d0cc4497)
+- [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript) - list of JS resources
 
 ### Lists
 - [Awesome Lists](https://github.com/sindresorhus/awesome) - the ultimate list of lists
