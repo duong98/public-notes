@@ -80,6 +80,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 ### Lists
 - [Awesome Lists](https://github.com/sindresorhus/awesome) - the ultimate list of lists
   - [Awesome Websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Free APIs](https://github.com/toddmotto/public-apis)
 
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)
