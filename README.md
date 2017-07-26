@@ -66,6 +66,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 - [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
 - [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
 - [WebDev spellbook/resource](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- [Learn Regex](https://github.com/zeeshanu/learn-regex)
 
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
