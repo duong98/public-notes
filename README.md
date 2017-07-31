@@ -61,6 +61,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 
 ## 🎒 Resources
 ### Developer
+- [Developer AMAs via Github](https://github.com/sindresorhus/amas)
 - [Full Stack Web Developer track](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
@@ -69,7 +70,6 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 - [Learn Regex](https://github.com/zeeshanu/learn-regex)
 
 ### Javascript
-- [Developer AMAs via Github](https://github.com/sindresorhus/amas)
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
 - [Javascript is drunk, see look](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)
