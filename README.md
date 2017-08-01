@@ -69,6 +69,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 - [WebDev spellbook/resource](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [Learn Regex](https://github.com/zeeshanu/learn-regex)
 - [What happens when](https://github.com/alex/what-happens-when)...you use the browser to access a website
+- [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
