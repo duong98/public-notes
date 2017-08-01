@@ -74,7 +74,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
-- [Javascript is drunk, see look](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)
+- [Go home, Javascript, you're drunk](https://github.com/denysdovhan/wtfjs) - WTF, JS
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.md)
 - [To Semicolon or Not to Semicolon](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
 - [Setting up an open source JS library](https://gist.github.com/deadcoder0904/58d821cf07b1d943e3846971d0cc4497)
