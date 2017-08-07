@@ -34,3 +34,5 @@ To avoid cross-browser issues, always set a width on anything floated, absolutel
 
 
 # Media Queries
+## Mobile
+Mobile browsers (especially on iOS) resize the viewport as the user scrolls the page. [This is not consistently handled across all browsers](https://github.com/bokand/URLBarSizing#proposed-changes-to-chrome).
