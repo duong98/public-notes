@@ -71,6 +71,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 - [What happens when](https://github.com/alex/what-happens-when)...you use the browser to access a website
 - [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 - [Marketing a side-project](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
