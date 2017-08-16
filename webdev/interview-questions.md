@@ -14,10 +14,6 @@
 
 
 ###### What development experts do you follow on Twitter?
-- Kent Dodds: created Cross-env, works for PayPal in Utah
-- John Washam: repo of resources to become software engineer
-- Jame Kyle: a very rambunctious JavaScript dev
-- Anders Borum: made Working Copy for iOS
 
 
 ###### Explain what is the difference between LocalStorage and Cookies?
