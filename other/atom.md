@@ -42,3 +42,19 @@ For some Atom shortcuts, [check this out](https://github.com/brettinternet/atom-
 
 # Atom Resources
 - [Vim mode plus tutorial](https://github.com/t9md/atom-vim-mode-plus/wiki/AdvancedTopicTutorial)
+
+# Custom CSS
+
+```css
+.editor .selection .region {
+background-color: rgba(0, 0, 0, 0.2);
+}
+
+.editor.is-focused  .selection .region {
+background-color: rgba(200, 57, 241, .2);
+}
+
+atom-text-editor::shadow .lines .line.cursor-line {
+   background-color: ;
+}
+```
