@@ -72,6 +72,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 - [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 - [Marketing a side-project](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [What Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
