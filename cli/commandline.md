@@ -16,6 +16,7 @@
 - `diskutil list` see all disks and partitions
 - `defaults write com.apple.finder AppleShowAllFiles YES` shows hidden files/`NO` to hide
 - `defaults write -g ApplePressAndHoldEnabled -bool false` turns off special characters popup
+- `networksetup listallhardwareports` to view all hardware port names
 
 ## Useful commands for GNU Linux
 - `sudo apt-get update && time sudo apt-get dist-upgrade` to upgrade the distro

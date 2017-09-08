@@ -1,4 +1,4 @@
-# Resources
+# Guides
 [WiringPi](https://projects.drogon.net/raspberry-pi/wiringpi/download-and-install/) is a GPIO Interface library for the Raspberry Pi
 
 [Wireless Power Outlets](https://timleland.com/wireless-power-outlets/) for [these](https://www.amazon.com/gp/product/B00DQELHBS/) 433hz outlet switches

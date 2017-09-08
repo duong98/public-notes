@@ -1,11 +1,10 @@
-
 # Design
 - http://jgthms.com/web-design-in-4-minutes/
 - Design inspiration: https://tympanus.net/codrops/
 
 ### Jeremy's notes on design
 
-Inspiration from the web:
+##### Inspiration from the web:
 - Clean design : http://www.kristagray.com/meetkrista/
 - http://www.devonstank.com/
 - Simple Resume feel : http://www.rachaelgking.com/

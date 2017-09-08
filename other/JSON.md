@@ -11,3 +11,8 @@ JSON allows:
 - null (no undefined or NaN)
 
 NO functions
+
+# Utilities
+- [JSON Libraries](https://github.com/burningtree/awesome-json)
+- [GeoJSON utilities](https://github.com/tmcw/awesome-geojson)
+- [JSON datasets](https://github.com/jdorfman/awesome-json-datasets)

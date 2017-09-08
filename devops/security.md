@@ -2,6 +2,7 @@
 - [Security for SaaS Startups](https://github.com/forter/security-101-for-saas-startups)
 
 # Code
+- [Hacksplaining](https://www.hacksplaining.com/) - guided instruction on how common hacks occur
 
 ### NodeJS
 

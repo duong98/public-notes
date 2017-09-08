@@ -1,6 +1,0 @@
-- [Large software list of stuff I use](https://github.com/brettinternet/dotfiles/blob/master/brew-cask.sh) - most can be installed on macOS with `brew cask install`
-  - I use the iTerm2 nightly build for some added features
-- [Some software I use Daily](https://github.com/brettinternet/dotfiles#other-apps)
-- [List of developer software & tools](https://github.com/katcipis/toolbox)
-- [Keybase](https://keybase.io/)
-- [Command-line apps](https://github.com/herrbischoff/awesome-command-line-apps)

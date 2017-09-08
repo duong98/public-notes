@@ -1,4 +1,3 @@
-
 **NOTE: the text inside the < brackets \> indicate custom text that you must change. [argument] represent optional arguments**
 
 ## Git Commands for collaboration
@@ -47,6 +46,8 @@
 - `git log` show log of changes
 - `git checkout HEAD <filename>` un-stages file changes
 - `git rm -rf --cached` remove all cached in staging area
+
+[Learn to squash](https://gist.github.com/patik/b8a9dc5cd356f9f6f980) your commits before merging.
 
 ##### fix errors and delete git markers
 - `git add .` and `git commit` enter notes regarding conflict
