@@ -1,5 +1,7 @@
 # React
 
+- [Collection of React and Redux links](https://github.com/markerikson/react-redux-links)
+
 ### Learning React
 - [React: Under the hood](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [React Demos](https://github.com/ruanyf/react-demos)

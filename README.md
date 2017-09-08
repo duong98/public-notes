@@ -61,24 +61,33 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 
 ## 🎒 Resources
 ### Developer
+- [Developer AMAs via Github](https://github.com/sindresorhus/amas)
 - [Full Stack Web Developer track](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
 - [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
 - [WebDev spellbook/resource](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- [Learn Regex](https://github.com/zeeshanu/learn-regex)
+- [What happens when](https://github.com/alex/what-happens-when)...you use the browser to access a website
+- [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+- [Marketing a side-project](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [What Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 
 ### Javascript
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
-- [Javascript is drunk, see look](https://gist.github.com/brettinternet/acb72b414d5434fd97d0c3de89fac501)
+- [Go home, Javascript, you're drunk](https://github.com/denysdovhan/wtfjs) - WTF, JS
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.md)
 - [To Semicolon or Not to Semicolon](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
 - [Setting up an open source JS library](https://gist.github.com/deadcoder0904/58d821cf07b1d943e3846971d0cc4497)
 - [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript) - list of JS resources
+- [The JavaScript Way](https://github.com/bpesquet/thejsway)
 
 ### Lists
 - [Awesome Lists](https://github.com/sindresorhus/awesome) - the ultimate list of lists
   - [Awesome Websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Free APIs](https://github.com/toddmotto/public-apis)
 
 ### DevOps
 - [Mac setup for developers](https://github.com/sb2nov/mac-setup)
