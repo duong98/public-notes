@@ -1,3 +1,9 @@
+# Career Guides
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Full Stack Developer progress guide](https://github.com/shovanch/fullstack-webdev-path)
+- [Full Stack Web Developer track](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
+
 # Job Search
 - [Here are Utah's larger companies](http://www.bigleap.com/utahs-best-brightest/)
 
@@ -19,6 +25,7 @@ Rules:
 For more insight on these notes, check out [this post](https://www.linkedin.com/pulse/5-key-learnings-from-post-bootcamp-job-search-felix-feng) written by a bootcamp grad on his job search.
 
 # Interviewing
+- [Meta list of interviewing guides](https://github.com/kdn251/interviews)
 - [Frontend Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [JS Interview Questions](./../javascript/js-interview.md) (my notes)
 - [General webdev interview questions](./interview-questions) (my notes)
@@ -47,15 +54,20 @@ Look at the company's Glassdoor reviews and bring up any other concerns you have
 [This list has about every question you'd ever need to ask a prospective employer](https://github.com/ChiperSoft/InterviewThis).
 
 
-# Improving and Preparation
-- [Full Stack Web Developer track](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+# Developer Knowledge Libraries
 - [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
+- [What Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+- [WebDev spellbook/resource](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- [What happens when](https://github.com/alex/what-happens-when)...you use the browser to access a website
+
+### Topics
+
+#### Regex
+- [Learn Regex](https://github.com/zeeshanu/learn-regex)
 
 
-# Career Guides
-- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-
-
-# And Beyond
-- [From Web Dev to Software Dev - study guide](https://github.com/jwasham/coding-interview-university)
+# Side Projects
 - [Moonlight for money](https://github.com/mezod/awesome-indie)
+- [Marketing a side-project](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)

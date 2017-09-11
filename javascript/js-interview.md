@@ -1,4 +1,15 @@
-# Resources for JS Interview Practice
+# Javascript Resources
+- [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
+- [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
+- [Go home, Javascript, you're drunk](https://github.com/denysdovhan/wtfjs) - WTF, JS
+- [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.md)
+- [To Semicolon or Not to Semicolon](https://medium.com/@kentcdodds/semicolons-in-javascript-a-preference-dd8fc8b80895)
+- [Setting up an open source JS library](https://gist.github.com/deadcoder0904/58d821cf07b1d943e3846971d0cc4497)
+- [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript) - list of JS resources
+- [The JavaScript Way](https://github.com/bpesquet/thejsway)
+
+
+## Resources for JS Interview Practice
 - [A popular repo of Awesome Interviews Questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - includes languages, frameworks/libraries
 - [123 Interview Questions](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
 - [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
@@ -16,7 +27,7 @@
 
 
 
-## Advanced
+### Advanced
 - JS Interview Algorithm - [beginner](http://www.thatjsdude.com/interview/js1.html) / [intermediate](http://www.thatjsdude.com/interview/js2.html)
 - [Interview Algorithm Questions in Javascript](https://github.com/kensterz/interview-questions-in-javascript)
 - [Algorithms and data structures](https://github.com/vinnyoodles/algorithms)
