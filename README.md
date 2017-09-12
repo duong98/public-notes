@@ -19,50 +19,50 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 
 # 📦 Table of Contents
 
-* [Javascript](./javascript)
-* [Angular](./angular)
-* [CSS](./CSS)
-* [React](./react)
-* [NodeJS](./node)
-* [Python](./python)
-* [Database](./database)
-* [Command line](./cli)
-  - [Homebrew](./cli/homebrew.md)
-  - [Git](./cli/git.md)
-  - [NPM](./cli/npm.md)
-  - [Terminal](./cli/terminal.md)
-  - [tmux](./cli/tmux.md)
-  - [SSH & FTP](./cli/ssh+ftp.md)
-* [DevOps](./devops) - pfSense, Heroku, Docker, backup, building webapps, dual boot pc/linux
-* [Scripts](./scripts)
+* [Javascript](/javascript)
+* [Angular](/angular)
+* [CSS](/CSS)
+* [React](/react)
+* [NodeJS](/node)
+* [Python](/python)
+* [Database](/database)
+* [Command line](/cli)
+  - [Homebrew](/cli/homebrew.md)
+  - [Git](/cli/git.md)
+  - [NPM](/cli/npm.md)
+  - [Terminal](/cli/terminal.md)
+  - [tmux](/cli/tmux.md)
+  - [SSH & FTP](/cli/ssh+ftp.md)
+* [DevOps](/devops) - pfSense, Heroku, Docker, backup, building webapps, dual boot pc/linux
+* [Scripts](/scripts)
 * Editors
   - [Atom packages](./other/atom.md)
-  - [Vim](./other/vim.md)
-* [Chrome DevTools Summary](./other/ChromeDevTools.md)
+  - [Vim](/other/vim.md)
+* [Chrome DevTools Summary](/other/ChromeDevTools.md)
 * [Compiler configs](./compiling)
-  - [Gulp](./compiling/gulpfile.js)
-  - [Webpack](./compiling/webpack.md)
+  - [Gulp](/compiling/gulpfile.js)
+  - [Webpack](/compiling/webpack.md)
 * [Amazon S3 Demo](https://github.com/brettinternet/s3-demo)
-* [WebDev Resources](./webdev)
-  - [Career](./webdev/career.md)
-  - [Interview Questions](./webdev/interview-questions.md)
+* [Developer Resources](/webdev)
+  - [Career](/developer/career.md)
+  - [WebDev Interview Questions](/developer/webdev-interview.md)
 * Projects
   - [my latest Hackintosh build](https://github.com/brettinternet/hackintosh)
   - [InternetBot.py](https://github.com/brettinternet/InternetBot.py) - a Discord chat bot
-  - [Raspberry Pi projects](./other/raspberrypi.md)
+  - [Raspberry Pi projects](/other/raspberrypi.md)
 * My Stuff
   - my '[rice](http://www.urbandictionary.com/define.php?term=rice)' 🍚 : brettinternet/[dotfiles](https://github.com/brettinternet/dotfiles)
   - [CV](https://github.com/brettinternet/cv) made with LaTeX
 * Non-code
-  - [Lists](./lists/)
-    - [food](./lists/food.md)
-    - [health](./lists/health.md)
-    - [books](./lists/books.md)
-    - [hardware](./lists/hardware.md)
-    - [software](./lists/software.md)
+  - [Lists](/lists/)
+    - [food](/lists/food.md)
+    - [health](/lists/health.md)
+    - [books](/lists/books.md)
+    - [hardware](/lists/hardware.md)
+    - [software](/lists/software.md)
 
 
-## 🎒 Resources
+## 🎒 Other Resources
 ### Developer
 - [Developer AMAs via Github](https://github.com/sindresorhus/amas)
 - [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
