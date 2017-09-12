@@ -42,8 +42,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](./other/dualboot-
 * [Compiler configs](./compiling)
   - [Gulp](/compiling/gulpfile.js)
   - [Webpack](/compiling/webpack.md)
-* [Amazon S3 Demo](https://github.com/brettinternet/s3-demo)
-* [Developer Resources](/webdev)
+* [Developer Resources](/developer)
   - [Career](/developer/career.md)
   - [WebDev Interview Questions](/developer/webdev-interview.md)
 * Projects
