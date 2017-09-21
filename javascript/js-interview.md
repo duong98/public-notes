@@ -7,6 +7,7 @@
 - [Setting up an open source JS library](https://gist.github.com/deadcoder0904/58d821cf07b1d943e3846971d0cc4497)
 - [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript) - list of JS resources
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
+- [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 ## Resources for JS Interview Practice
