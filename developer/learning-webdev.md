@@ -6,6 +6,7 @@
 - [Hackernews Discussion](https://news.ycombinator.com/item?id=15328992)
 
 ### Basics
+- https://internetingishard.com/html-and-css/
 - http://marksheet.io/
 - [HTML/CSS Guide](https://learn.shayhowe.com/html-css/) (1)
 - [HTML/CSS Advanced Guide](https://learn.shayhowe.com/advanced-html-css/) (2)
