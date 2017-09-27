@@ -30,6 +30,7 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 - [JS Interview Questions](./../javascript/js-interview.md) (my notes)
 - [General webdev interview questions](./interview-questions) (my notes)
 - [Some interesting statistics about good interviewees](https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 
 ### Whiteboarding
