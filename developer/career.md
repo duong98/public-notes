@@ -56,6 +56,9 @@ Look at the company's Glassdoor reviews and bring up any other concerns you have
 [This list has about every question you'd ever need to ask a prospective employer](https://github.com/ChiperSoft/InterviewThis).
 
 
+# Longterm
+- [Programmer Moneyball](http://danluu.com/programmer-moneyball/)
+
 # Developer Knowledge Libraries
 - [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
 - [What Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
