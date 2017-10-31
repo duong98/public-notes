@@ -1,8 +1,10 @@
-# Resources
+# Software
 
-### Grafana
+### Monitor
 - [plexpy => influxDB](https://github.com/JeordyR/plexpyInflux) OR [here](https://github.com/brettinternet/plexpy2influx) in Node
 
+# Hardware
+- [Should I buy ECC memory?](https://danluu.com/why-ecc/) [HN link](https://news.ycombinator.com/item?id=14206635)
 
 # Security & Privacy
 - [PIA vpn](https://www.privateinternetaccess.com/)
