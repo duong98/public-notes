@@ -8,6 +8,7 @@
 - [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript) - list of JS resources
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [36 Essential JS Interview Questions](https://www.toptal.com/javascript/interview-questions)
 
 
 ## Resources for JS Interview Practice
