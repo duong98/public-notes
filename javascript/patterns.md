@@ -27,3 +27,6 @@ REST-compliant web servers allow manipulating client and server data by using a 
 REST conforms to [these constraints](https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_properties).
 
 [How I explained REST to my wife](http://www.looah.com/source/view/2284) - the original other removed the article because of the possibly discriminatory wording in the title, but post is still educational (for man or woman).
+
+# Framework Patterns
+- [React Patterns](https://github.com/vasanthk/react-bits)
