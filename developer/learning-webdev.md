@@ -4,6 +4,7 @@
 - [Web design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/) (interactive)
 - http://learnlayout.com/
 - [Hackernews Discussion](https://news.ycombinator.com/item?id=15328992)
+- [UX Design for APIs](https://blog.keras.io/user-experience-design-for-apis.html)
 
 ### Basics
 - https://internetingishard.com/html-and-css/
