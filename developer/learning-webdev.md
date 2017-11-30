@@ -26,3 +26,8 @@
 
 ### JS
 - [Plain JS repo collection](https://plainjs.com/) - [HN Discussion](https://news.ycombinator.com/item?id=15330864), [Similar offering](http://vanilla-js.com/)
+
+# Practice
+
+### General coding problems
+- [Projects and thought problems](https://github.com/karan/Projects)
