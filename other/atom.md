@@ -44,6 +44,13 @@ For some Atom shortcuts, [check this out](https://github.com/brettinternet/atom-
 - [Vim mode plus tutorial](https://github.com/t9md/atom-vim-mode-plus/wiki/AdvancedTopicTutorial)
 
 # Custom CSS
+```css
+.atom-dock-toggle-button-visible
+{
+    display: none;
+}
+```
+
 
 ```css
 .editor .selection .region {
