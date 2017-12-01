@@ -7,6 +7,7 @@
 - [UX Design for APIs](https://blog.keras.io/user-experience-design-for-apis.html)
 
 ### Basics
+- [Resources for Front End Beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - https://internetingishard.com/html-and-css/
 - http://marksheet.io/
 - [HTML/CSS Guide](https://learn.shayhowe.com/html-css/) (1)
