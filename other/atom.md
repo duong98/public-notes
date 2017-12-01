@@ -2,6 +2,7 @@
 [Atom Packages](https://atom.io/packages)
 
 ## Essentials
+- [Sync-settings](https://atom.io/packages/sync-settings) - [Gist with settings](https://gist.github.com/brettinternet/47895a558ace70431f147139473b600b)
 - [minimap](https://atom.io/packages/minimap)
 - [minimap-pigments](https://atom.io/packages/minimap-pigments)
 - [pigments](https://atom.io/packages/pigments)
