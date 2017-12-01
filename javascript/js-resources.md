@@ -9,6 +9,7 @@
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [36 Essential JS Interview Questions](https://www.toptal.com/javascript/interview-questions)
+- [Must Watch JS Talks](https://github.com/AllThingsSmitty/must-watch-javascript)
 
 
 ## Resources for JS Interview Practice
