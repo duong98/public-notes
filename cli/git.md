@@ -1,4 +1,9 @@
-**NOTE: the text inside the < brackets \> indicate custom text that you must change. [argument] represent optional arguments**
+# Git Resources
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+
+# Git Notes
+
+*NOTE: the text inside the < brackets \> indicate custom text that you must change. [argument] represent optional arguments*
 
 ## Git Commands for collaboration
 
