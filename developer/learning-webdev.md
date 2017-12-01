@@ -18,6 +18,9 @@
 ### DOM
 - [Creating an ES6 DOM Library](https://www.ericponto.com/blog/2014/10/05/es6-dom-library/)
 
+### DevOps
+- [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+
 # References
 
 ### CSS
