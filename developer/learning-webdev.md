@@ -5,7 +5,7 @@
 - http://learnlayout.com/
 - [Hackernews Discussion](https://news.ycombinator.com/item?id=15328992)
 - [UX Design for APIs](https://blog.keras.io/user-experience-design-for-apis.html)
-- [Example of good design](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/)
+- [Example of good design](https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/) ([discussion](https://news.ycombinator.com/item?id=15838270))
 
 ### Basics
 - [Resources for Front End Beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner)
