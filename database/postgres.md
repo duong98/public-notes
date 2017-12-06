@@ -1,3 +1,8 @@
+# Practice
+- [PG Exercises](https://pgexercises.com/) ([discussion](https://news.ycombinator.com/item?id=15859849))
+
+# Notes
+
 ## `psql` commands
 -- `\c` database, `\l` - list databases, `\dt` table, `\d+` table,
 
