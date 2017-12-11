@@ -1,3 +1,10 @@
+# Resources
+
+### CSS Tours
+- [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
+- [Lonely Planet's CSS](http://ianfeather.co.uk/css-at-lonely-planet/)
+
+
 # Positioning
 `static`: default position of an element.
 
