@@ -3,6 +3,7 @@
 ### CSS Tours
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 - [Lonely Planet's CSS](http://ianfeather.co.uk/css-at-lonely-planet/)
+- [CodePen's CSS](https://codepen.io/chriscoyier/post/codepens-css)
 
 
 # Positioning
