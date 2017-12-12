@@ -10,6 +10,7 @@
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [36 Essential JS Interview Questions](https://www.toptal.com/javascript/interview-questions)
 - [Must Watch JS Talks](https://github.com/AllThingsSmitty/must-watch-javascript)
+- [JavaScript snippets in 30 seconds](https://github.com/Chalarangelo/30-seconds-of-code)
 
 
 ## Resources for JS Interview Practice
