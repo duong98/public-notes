@@ -30,3 +30,4 @@ REST conforms to [these constraints](https://en.wikipedia.org/wiki/Representatio
 
 # Framework Patterns
 - [React Patterns](https://github.com/vasanthk/react-bits)
+- [React In Patterns](https://github.com/krasimir/react-in-patterns)
