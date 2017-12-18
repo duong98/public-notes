@@ -1,5 +1,6 @@
 # Git Resources
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+- [Oh-shit-git: working around git mistakes](http://ohshitgit.com/)
 
 # Git Notes
 
