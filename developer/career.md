@@ -51,12 +51,11 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 - What do you enjoy about working at X company?
 - How are teams structured and how are tasks usually divided?
 
-Let the interview know [what values you're looking for](https://www.keyvalues.com/culture-queries) in a company. ([discussion](https://news.ycombinator.com/item?id=15908812))
-
-Look at the company's Glassdoor reviews and bring up any other concerns you have about the position or company.
-
 [This list has about every question you'd ever need to ask a prospective employer](https://github.com/ChiperSoft/InterviewThis).
 
+##### Learn what you want
+- Let the interview know [what values you're looking for](https://www.keyvalues.com/culture-queries) in a company. ([discussion](https://news.ycombinator.com/item?id=15908812))
+- Look at the company's Glassdoor reviews and bring up any other concerns you have about the position or company.
 
 # Longterm
 - [Programmer Moneyball](http://danluu.com/programmer-moneyball/)
