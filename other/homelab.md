@@ -2,6 +2,9 @@
 
 ### Monitor
 - [plexpy => influxDB](https://github.com/JeordyR/plexpyInflux) OR [here](https://github.com/brettinternet/plexpy2influx) in Node
+- Monitor home power usage
+    - [Guide walkthrough](https://home-assistant.io/components/sensor.dsmr/)
+    - [Reddit graph example](https://www.reddit.com/r/homelab/comments/7kpbn9/finally_finished_up_my_wholehome_electricity/)
 
 # Hardware
 - [Should I buy ECC memory?](https://danluu.com/why-ecc/) [HN link](https://news.ycombinator.com/item?id=14206635)
