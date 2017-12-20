@@ -5,7 +5,7 @@
 - Monitor home power usage
     - [Guide walkthrough](https://home-assistant.io/components/sensor.dsmr/)
     - [Reddit graph example](https://www.reddit.com/r/homelab/comments/7kpbn9/finally_finished_up_my_wholehome_electricity/)
-    - [Example Homelab power setup](https://github.com/Fohdeesha/home-automation)
+    - [Example Homelab power setup](https://github.com/Fohdeesha/home-automation) ([Grafana example](http://home.fohdeesha.com/graphs/dashboard/db/power?refresh=5s&orgId=1))
 
 # Hardware
 - [Should I buy ECC memory?](https://danluu.com/why-ecc/) [HN link](https://news.ycombinator.com/item?id=14206635)
