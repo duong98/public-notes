@@ -80,3 +80,6 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 # Side Projects
 - [Moonlight for money](https://github.com/mezod/awesome-indie)
 - [Marketing a side-project](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
+
+### Contribute to Open Source
+- [Starting an Open Source Career](https://blog.algolia.com/start-your-open-source-career/) ([discuss](https://news.ycombinator.com/item?id=15980239))
