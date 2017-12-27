@@ -42,6 +42,6 @@ Django design pattern: MVT - model, view, template (much like MVC, except views 
 - `r'^$'` matches the root URL
 
 # Resources
-
+- [Pytudes python programs to practice in Jupyter Notebook files](https://github.com/norvig/pytudes)
 - https://github.com/misterch0c/Awesome-Hacking - meta list of security resources, most are in python
 - https://github.com/keon/algorithms
