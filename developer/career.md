@@ -60,6 +60,9 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 # Longterm
 - [Programmer Moneyball](http://danluu.com/programmer-moneyball/)
 
+### Entrepeneur Success
+- [A Dark Room creator](https://failory.com/battle-scars)
+
 # Developer Knowledge Libraries
 - [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
 - [What Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
