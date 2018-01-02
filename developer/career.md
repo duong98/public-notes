@@ -59,6 +59,7 @@ For more insight on these notes, check out [this post](https://www.linkedin.com/
 
 # Longterm
 - [Programmer Moneyball](http://danluu.com/programmer-moneyball/)
+- [Computer Science free education course](https://github.com/ossu/computer-science)
 
 ### Entrepeneur Success
 - [A Dark Room creator](https://failory.com/battle-scars)
