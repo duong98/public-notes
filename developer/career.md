@@ -7,6 +7,9 @@
 # Job Search
 - [Here are Utah's larger companies](http://www.bigleap.com/utahs-best-brightest/)
 
+### Compensation
+- [How to ask for a raise](https://www.hpe.com/us/en/insights/articles/how-to-ask-for-a-raise-in-2018-avoid-these-common-pitfalls-1801.html) ([discuss](https://news.ycombinator.com/item?id=16062615))
+
 # Application
 - [Companies that are easy to apply to](https://github.com/j-delaney/easy-application) and don't make you fill out long and tedious applications
 
