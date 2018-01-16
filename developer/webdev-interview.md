@@ -1,7 +1,7 @@
 # General WebDev Interview Questions
 
 ## Technical Questions
-- [JavaScript](./../javascript/toy-problem-help.md)
+- [JavaScript](./../javascript/js-resources.md)
 
 ## Conceptual Questions
 
