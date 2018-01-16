@@ -8,12 +8,13 @@
 - [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript) - list of JS resources
 - [The JavaScript Way](https://github.com/bpesquet/thejsway)
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [36 Essential JS Interview Questions](https://www.toptal.com/javascript/interview-questions)
 - [Must Watch JS Talks](https://github.com/AllThingsSmitty/must-watch-javascript)
 - [JavaScript snippets in 30 seconds](https://github.com/Chalarangelo/30-seconds-of-code)
+- [JS handbook for developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 
 
 ## Resources for JS Interview Practice
+- [36 Essential JS Interview Questions](https://www.toptal.com/javascript/interview-questions)
 - [A popular repo of Awesome Interviews Questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - includes languages, frameworks/libraries
 - [123 Interview Questions](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
 - [Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
