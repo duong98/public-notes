@@ -3,6 +3,7 @@
 
 # Code
 - [Hacksplaining](https://www.hacksplaining.com/) - guided instruction on how common hacks occur
+- [Why it's important to not have any dependencies on your login page](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 
 ### NodeJS
 
