@@ -55,3 +55,9 @@
 - [The part about interview at 'Front-End Developer Handbook'](https://www.frontendhandbook.com/practice/interview-q.html)
 - [JavaScript Exercises, Practice, Solution - starter level, most questions are about knowledge of basic API / lang construction](http://www.w3resource.com/javascript-exercises/)
 - "Cracking the Coding Interview" by Gayle Laakmann McDowell [solutions](https://github.com/careercup/CtCI-6th-Edition)
+
+
+
+### Frameworks and Modern JS
+- [Ultimate Guide to JS Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+- [Modern JS Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
