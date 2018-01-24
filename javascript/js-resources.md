@@ -1,4 +1,5 @@
 # Javascript Resources
+- [Airbnb JavaScript guide](https://github.com/airbnb/javascript)
 - [Clean code practices](https://github.com/ryanmcdermott/clean-code-javascript)
 - [You Don't Know JS book](https://github.com/getify/You-Dont-Know-JS)
 - [Go home, Javascript, you're drunk](https://github.com/denysdovhan/wtfjs) - WTF, JS
