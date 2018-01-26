@@ -22,6 +22,7 @@
 
 ### DevOps
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+- [Project best practices](https://github.com/wearehive/project-guidelines) - git, documentation, environments, dependencies, code, APIs, logging
 
 # References
 
