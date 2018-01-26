@@ -5,6 +5,9 @@
 - [Hacksplaining](https://www.hacksplaining.com/) - guided instruction on how common hacks occur
 - [Why it's important to not have any dependencies on your login page](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 
+### Web
+- [Hacker101 web security guide](https://github.com/Hacker0x01/hacker101)
+
 ### NodeJS
 
 [Security tips](https://hackernoon.com/node-security-authentication-javascript-tutorial-example-session-brute-force-rainbow-table-crack-hijack-3b6c56ee938c)
