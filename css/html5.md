@@ -1,5 +1,7 @@
 Tim Berners-Lee invented HTML in 1991.
 
+[Browse HTML5 tags interactively](https://codepen.io/K-T/pen/ppmvJV)
+
 ### Semantic tags
 
 ```html
