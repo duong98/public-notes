@@ -62,3 +62,4 @@
 ### Frameworks and Modern JS
 - [Ultimate Guide to JS Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
 - [Modern JS Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+- [Webpack Demos](https://github.com/ruanyf/webpack-demos)
