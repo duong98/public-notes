@@ -43,3 +43,4 @@
 
 # Optimization
 - [Make it faster!](https://varvy.com/pagespeed/)
+    - [Example of a fast webpage](https://varvy.com/pagespeed/wicked-fast.html)
