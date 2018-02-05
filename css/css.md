@@ -2,11 +2,16 @@
 CSS is one of the easiest languages to learn, and the hardest one to scale.
 - [Modern CSS Explained](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) - Some historical context to the evolution of CSS
 
+
 ### CSS Tours
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 - [Lonely Planet's CSS](http://ianfeather.co.uk/css-at-lonely-planet/)
 - [CodePen](https://codepen.io/chriscoyier/post/codepens-css)
 
+
+# Properties
+## Flexbox
+- [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 
 ## Positioning
 `static`: default position of an element.
