@@ -40,3 +40,6 @@
 - [Projects and thought problems](https://github.com/karan/Projects)
 - [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [JavaScript snippets in 30 seconds](https://github.com/Chalarangelo/30-seconds-of-code)
+
+# Optimization
+- [Make it faster!](https://varvy.com/pagespeed/)
