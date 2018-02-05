@@ -1,4 +1,6 @@
 # Resources
+CSS is one of the easiest languages to learn, and the hardest one to scale.
+- [Modern CSS Explained](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) - Some historical context to the evolution of CSS
 
 ### CSS Tours
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
@@ -6,7 +8,7 @@
 - [CodePen](https://codepen.io/chriscoyier/post/codepens-css)
 
 
-# Positioning
+## Positioning
 `static`: default position of an element.
 
 Each of the following other positions are positioned with `top, bottom, left, right` according to a reference point.
@@ -19,7 +21,7 @@ Each of the following other positions are positioned with `top, bottom, left, ri
 
 [Positioning demo](http://codepen.io/brettinternet/full/wgVMoX/)
 
-## Box Model + positioning
+### Box Model + positioning
 *Every element in web design is a rectangular box.*
 height x width (content) + padding + border + margin
 
@@ -41,6 +43,6 @@ To avoid cross-browser issues, always set a width on anything floated, absolutel
 **`{box-sizing: border-box}` allows border and padding to be computed in the total space occupied by a box model.**
 
 
-# Media Queries
-## Mobile
+## Media Queries
+### Mobile
 Mobile browsers (especially on iOS) resize the viewport as the user scrolls the page. [This is not consistently handled across all browsers](https://github.com/bokand/URLBarSizing#proposed-changes-to-chrome).
