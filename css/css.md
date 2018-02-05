@@ -1,6 +1,8 @@
 # Resources
 CSS is one of the easiest languages to learn, and the hardest one to scale.
 - [Modern CSS Explained](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) - Some historical context to the evolution of CSS
+- [Learn CSS layout](http://book.mixu.net/css/)
+- Some folks don't like much CSS ([Website](http://motherfuckingwebsite.com/)) and others think just a little CSS will go a long way ([Better Website](http://bettermotherfuckingwebsite.com/)).
 
 
 ### Examples
@@ -13,10 +15,13 @@ CSS is one of the easiest languages to learn, and the hardest one to scale.
 
 
 # Properties
-## Flexbox
+### Vertical Alignment
+- [Vertically align `div` in all browsers](https://stackoverflow.com/questions/396145/how-to-vertically-center-a-div-for-all-browsers) - check out of the horror of CSS...
+
+### Flexbox
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 
-## Positioning
+### Positioning
 `static`: default position of an element.
 
 Each of the following other positions are positioned with `top, bottom, left, right` according to a reference point.
@@ -29,7 +34,7 @@ Each of the following other positions are positioned with `top, bottom, left, ri
 
 [Positioning demo](http://codepen.io/brettinternet/full/wgVMoX/)
 
-### Box Model + positioning
+#### Box Model + positioning
 *Every element in web design is a rectangular box.*
 height x width (content) + padding + border + margin
 
@@ -51,6 +56,6 @@ To avoid cross-browser issues, always set a width on anything floated, absolutel
 **`{box-sizing: border-box}` allows border and padding to be computed in the total space occupied by a box model.**
 
 
-## Media Queries
+### Media Queries
 ### Mobile
 Mobile browsers (especially on iOS) resize the viewport as the user scrolls the page. [This is not consistently handled across all browsers](https://github.com/bokand/URLBarSizing#proposed-changes-to-chrome).
