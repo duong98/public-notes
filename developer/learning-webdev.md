@@ -24,6 +24,9 @@
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - [Project best practices](https://github.com/wearehive/project-guidelines) - git, documentation, environments, dependencies, code, APIs, logging
 
+
+
+
 # References
 
 ### CSS
@@ -41,6 +44,12 @@
 - [Interactive coding challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [JavaScript snippets in 30 seconds](https://github.com/Chalarangelo/30-seconds-of-code)
 
+
+
 # Optimization
 - [Make it faster!](https://varvy.com/pagespeed/)
     - [Example of a fast webpage](https://varvy.com/pagespeed/wicked-fast.html)
+- [Compress with Brotli](https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/)
+- [Imaging resizing with ImageMagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/)
+- [Performance Checklist for Front End development](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+- [Identify the Cost of JS and optimize](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
