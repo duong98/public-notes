@@ -53,3 +53,10 @@
 - [Imaging resizing with ImageMagick](https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/)
 - [Performance Checklist for Front End development](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 - [Identify the Cost of JS and optimize](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+- PWA Performance Case Studies:
+    - [Tinder](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+    - [Pinterest](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+    - [Treebo (React and Preact)](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
+    - [HackerNews PWA examples](https://hnpwa.com/) - ([description](https://blog.hnpwa.com/hacker-news-progressive-web-apps-2d8cbf7bc077))
+    - [PWA articles](https://medium.com/@addyosmani) - written by Addy Osmani @ Google
+
