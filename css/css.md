@@ -15,6 +15,11 @@ CSS is one of the easiest languages to learn, and the hardest one to scale.
 
 
 # Properties
+### Grid
+- [Why you should use CSS Grid](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
+- [Course to learn Grid](https://scrimba.com/g/gR8PTE)
+- [Prototyping sites with Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
+
 ### Vertical Alignment
 - [Vertically align `div` in all browsers](https://stackoverflow.com/questions/396145/how-to-vertically-center-a-div-for-all-browsers) - check out of the horror of CSS...
 
@@ -59,3 +64,8 @@ To avoid cross-browser issues, always set a width on anything floated, absolutel
 ### Media Queries
 ### Mobile
 Mobile browsers (especially on iOS) resize the viewport as the user scrolls the page. [This is not consistently handled across all browsers](https://github.com/bokand/URLBarSizing#proposed-changes-to-chrome).
+
+
+
+# Icons
+- [Multicolored icons with SVG symbols and CSS variables](https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4)
