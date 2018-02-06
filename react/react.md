@@ -1,13 +1,20 @@
 # React
-
 - [Collection of React and Redux links](https://github.com/markerikson/react-redux-links)
+
 
 ### Learning React
 - [React: Under the hood](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - [React Demos](https://github.com/ruanyf/react-demos)
 - [React-router-redux](https://github.com/reactjs/react-router-redux/tree/master/examples/basic) (basic example)
+- [Rendering a function](https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2)
+
+### Optimize
+- [Inline functions and performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
+- 
+
 
 ### Example React Apps
+- [React Slingshot](https://github.com/coryhouse/react-slingshot) - good medium-sized React boilerplate with Redux
 - [React starter kit](https://github.com/davezuko/react-redux-starter-kit)
   - Redux
 - [React styled hot universal](https://github.com/krasevych/react-redux-styled-hot-universal)
