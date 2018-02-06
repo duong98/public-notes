@@ -69,7 +69,3 @@ Mobile browsers (especially on iOS) resize the viewport as the user scrolls the 
 
 # Icons
 - [Multicolored icons with SVG symbols and CSS variables](https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4)
-
-
-# Design
-- [State of Design](https://medium.com/@chopeh/the-state-of-design-ff5142fb806) - satire
