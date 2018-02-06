@@ -24,3 +24,6 @@
 - [dockerizing node app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 - [alpine node](https://github.com/mhart/alpine-node)
 - [docker compose](https://github.com/b00giZm/docker-compose-nodejs-examples/blob/master/05-nginx-express-redis-nodemon/README.md)
+
+# Case Studies
+- [Play by Play: Moving the NYT Games Platform to GCP With Zero Downtime](https://open.nytimes.com/play-by-play-moving-the-nyt-games-platform-to-gcp-with-zero-downtime-cf425898d569)
