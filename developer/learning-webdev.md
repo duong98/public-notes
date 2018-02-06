@@ -59,4 +59,4 @@
     - [Treebo (React and Preact)](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
     - [HackerNews PWA examples](https://hnpwa.com/) - ([description](https://blog.hnpwa.com/hacker-news-progressive-web-apps-2d8cbf7bc077))
     - [PWA articles](https://medium.com/@addyosmani) - written by Addy Osmani @ Google
-
+- [Optimization effects SEO](https://searchengineland.com/google-now-counts-site-speed-as-ranking-factor-39708) - ([and mobile](https://searchengineland.com/google-speed-update-page-speed-will-become-ranking-factor-mobile-search-289904))
