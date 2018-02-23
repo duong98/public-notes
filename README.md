@@ -36,7 +36,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](/devops/dualboot-
 * [DevOps](/devops) - pfSense, Heroku, Docker, backup, building webapps, dual boot pc/linux
 * [Scripts](/scripts)
 * Editors
-  - [Atom packages](./other/atom.md)
+  - [Editors & Plugins](./other/editors.md)
   - [Vim](/other/vim.md)
 * [Chrome DevTools Summary](/other/ChromeDevTools.md)
 * [Compiler configs](./compiling)
