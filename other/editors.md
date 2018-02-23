@@ -1,4 +1,16 @@
-# Atom packages
+# VS Code
+- [Check out the packages that I use](https://gist.github.com/brettinternet/aa2e5f9384e0877ca107fe21aca7a240)
+
+### Vim mode
+Mac's key repeat is disabled by default. To enable for VS Code specifically use:
+
+```sh
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+```
+
+---
+
+# Atom
 [Atom Packages](https://atom.io/packages)
 
 ## Essentials
