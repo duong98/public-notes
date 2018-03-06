@@ -61,3 +61,8 @@
     - [PWA articles](https://medium.com/@addyosmani) - written by Addy Osmani @ Google
 - [Optimization effects SEO](https://searchengineland.com/google-now-counts-site-speed-as-ranking-factor-39708) - ([and mobile](https://searchengineland.com/google-speed-update-page-speed-will-become-ranking-factor-mobile-search-289904))
 - [List of front-end case studies](https://github.com/andrew--r/frontend-case-studies)
+
+
+
+# History
+It's useful to know some historical aspects of web development. [Here](https://webaim.org/blog/user-agent-string-history/) ([discuss](https://news.ycombinator.com/item?id=16525559)) is one about the browser's user agent string which can be grabbed from `navigator.userAgent`.
