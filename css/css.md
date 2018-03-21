@@ -7,6 +7,7 @@ CSS is one of the easiest languages to learn, and the hardest one to scale.
 
 ### Examples
 - [CSS Tricks snippets](https://css-tricks.com/snippets/css/)
+- [Responsive Design](https://github.com/philipwalton/responsive-components)
 
 ### CSS Tours
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
