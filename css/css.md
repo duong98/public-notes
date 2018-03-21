@@ -24,7 +24,7 @@ CSS is one of the easiest languages to learn, and the hardest one to scale.
 - [Vertically align `div` in all browsers](https://stackoverflow.com/questions/396145/how-to-vertically-center-a-div-for-all-browsers) - check out of the horror of CSS...
 
 ### Flexbox
-- [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
+- [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox)
 
 ### Positioning
 `static`: default position of an element.
