@@ -27,3 +27,6 @@
 
 # Case Studies
 - [Play by Play: Moving the NYT Games Platform to GCP With Zero Downtime](https://open.nytimes.com/play-by-play-moving-the-nyt-games-platform-to-gcp-with-zero-downtime-cf425898d569)
+
+# Images
+- [Fred's ImageMagick scripts](http://www.fmwconcepts.com/imagemagick/index.php)
