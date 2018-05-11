@@ -64,3 +64,6 @@
 - [Modern JS Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - [Webpack Demos](https://github.com/ruanyf/webpack-demos)
 - [Makefile for JS](https://gist.github.com/hallettj/29b8e7815b264c88a0a0ee9dcddb6210)
+
+#### Typescript
+- [React, redux and typescript](https://github.com/piotrwitek/react-redux-typescript-guide)
