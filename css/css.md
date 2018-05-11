@@ -3,6 +3,7 @@ CSS is one of the easiest languages to learn, and the hardest one to scale.
 - [Modern CSS Explained](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) - Some historical context to the evolution of CSS
 - [Learn CSS layout](http://book.mixu.net/css/)
 - Some folks don't like much CSS ([Website](http://motherfuckingwebsite.com/)) and others think just a little CSS will go a long way ([Better Website](http://bettermotherfuckingwebsite.com/)).
+- [CSS protips](https://github.com/AllThingsSmitty/css-protips)
 
 
 ### Examples
