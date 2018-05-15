@@ -1,4 +1,6 @@
-# Terminal and shell setup
+# Bash resources
+- [10 Things I wish I'd known about Bash](https://zwischenzugs.com/2018/01/21/ten-more-things-i-wish-id-known-about-bash/) ([discuss](https://news.ycombinator.com/item?id=16198974))
+- [Do things safely in Bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
 
 ## Useful Unix commands
 - `ls -a` list *all* files in current directory
@@ -49,10 +51,17 @@
 ## Aliases
 - [OSX](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/osx)
 
-## ZSH
+
+# ZSH
 ### Resources
 - [Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf)
 - [zsh lovers](http://grml.org/zsh/zsh-lovers.html)
+
+```sh
+hostcolor=197
+zstyle ':vcs_info:git*' formats "%{$fg[blue]%}#%b%{$reset_color%}"
+PROMPT='%~${vcs_info_msg_0_} %F{$hostcolor}> %f'
+```
 
 ### Configurations
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
