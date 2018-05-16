@@ -64,7 +64,7 @@ If you're on a PC, you may consider [dual booting with Ubuntu](/devops/dualboot-
 ## 🎒 Other Resources
 ### Developer
 - [Developer AMAs via Github](https://github.com/sindresorhus/amas)
-- [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4wconhaof)
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 
 ### Lists
 - [Awesome Lists](https://github.com/sindresorhus/awesome) - the ultimate list of lists
