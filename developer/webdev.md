@@ -66,3 +66,15 @@
 
 # History
 It's useful to know some historical aspects of web development. [Here](https://webaim.org/blog/user-agent-string-history/) ([discuss](https://news.ycombinator.com/item?id=16525559)) is one about the browser's user agent string which can be grabbed from `navigator.userAgent`.
+
+
+# Make Front End Shit Again
+Discussed [here](https://news.ycombinator.com/item?id=17060303)
+
+- http://fastcashmoneyplus.biz/
+- https://makefrontendshitagain.party/
+- [Some featured sites here](https://neocities.org/)
+- https://brucewillis.sexy/
+- https://dataswamp.org/~john/
+
+
