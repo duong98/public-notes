@@ -37,7 +37,7 @@
 - JS Interview Algorithm - [beginner](http://www.thatjsdude.com/interview/js1.html) / [intermediate](http://www.thatjsdude.com/interview/js2.html)
 - [Interview Algorithm Questions in Javascript](https://github.com/kensterz/interview-questions-in-javascript)
 - [Algorithms and data structures](https://github.com/vinnyoodles/algorithms)
-
+- [JS algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 
 ### Online Tests
