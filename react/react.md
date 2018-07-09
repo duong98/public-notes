@@ -7,6 +7,7 @@
 - [React Demos](https://github.com/ruanyf/react-demos)
 - [React-router-redux](https://github.com/reactjs/react-router-redux/tree/master/examples/basic) (basic example)
 - [Rendering a function](https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2)
+- [Examples and explanations](https://github.com/kay-is/react-from-zero)
 
 ### Optimize
 - [Inline functions and performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
